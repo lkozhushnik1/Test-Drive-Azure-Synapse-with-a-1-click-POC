@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--demod242rrg6yxtdepocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/0ed91465-7a79-4e24-b539-e853f9c93644/resourceGroups/synapseoneclick-demo/providers/Microsoft.Synapse/workspaces/demod242rrg6yxtdepocws1",
+		"groupId": "sql",
+		"fqdns": [
+			"demod242rrg6yxtdepocws1.db545fdc-1d9c-44f8-979e-745c30d54d55.sql.azuresynapse.net"
+		]
+	}
+}
