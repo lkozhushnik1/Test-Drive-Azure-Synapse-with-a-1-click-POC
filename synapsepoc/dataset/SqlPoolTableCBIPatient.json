@@ -1,0 +1,42 @@
+{
+	"name": "SqlPoolTableCBIPatient",
+	"properties": {
+		"annotations": [],
+		"type": "SqlPoolTable",
+		"schema": [
+			{
+				"name": "id",
+				"type": "bigint",
+				"precision": 19
+			},
+			{
+				"name": "first_name",
+				"type": "nvarchar"
+			},
+			{
+				"name": "last_name",
+				"type": "nvarchar"
+			},
+			{
+				"name": "email",
+				"type": "nvarchar"
+			},
+			{
+				"name": "gender",
+				"type": "nvarchar"
+			},
+			{
+				"name": "ip_address",
+				"type": "nvarchar"
+			}
+		],
+		"typeProperties": {
+			"schema": "CBI",
+			"table": "Patient"
+		},
+		"sqlPool": {
+			"referenceName": "demohc7on2ywpzovapocws1p1",
+			"type": "SqlPoolReference"
+		}
+	}
+}
