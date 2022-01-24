@@ -1,0 +1,16 @@
+{
+	"name": "DestinationDataset_qzn",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSynapseAnalytics1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlDWTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "HHS1",
+			"table": "Patient"
+		}
+	}
+}
