@@ -1,0 +1,24 @@
+{
+	"name": "Retail_i4p",
+	"properties": {
+		"Description": "",
+		"Name": "Retail_i4p",
+		"EntityType": "DATABASE",
+		"Origin": {
+			"Type": "SPARK"
+		},
+		"Properties": {
+			"DerivedModelDBInfo": "{\"ModelDirectives\":{\"BaseModel\":{\"Name\":\"Retail\",\"Version\":\"0.1.0\"}}}",
+			"IsSyMSCDMDatabase": true
+		},
+		"Source": {
+			"Provider": "ADLS",
+			"Location": "abfss://dlsdemopocfs1@demohc7on2ywpzovapoc.dfs.core.windows.net/Retail_i4p",
+			"Properties": {
+				"FormatType": "csv",
+				"LinkedServiceName": "demohc7on2ywpzovapocws1-WorkspaceDefaultStorage"
+			}
+		}
+	},
+	"type": "DATABASE"
+}
