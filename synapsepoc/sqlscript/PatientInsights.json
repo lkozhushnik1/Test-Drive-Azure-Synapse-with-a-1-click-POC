@@ -1,0 +1,17 @@
+{
+	"name": "PatientInsights",
+	"properties": {
+		"content": {
+			"query": "Create VIEW\n[Patient_Insights]\nselect * from dss.Patient_admission a \nJoin dss.patient_payment B\non a.patient_id = b.id\n\nselect * from dss.Patient_admission\n\nselect *  from dss.patient_payment B\n\n",
+			"metadata": {
+				"language": "sql"
+			},
+			"currentConnection": {
+				"databaseName": "demohc7on2ywpzovapocws1p2",
+				"poolName": "demohc7on2ywpzovapocws1p2"
+			},
+			"resultLimit": 5000
+		},
+		"type": "SqlQuery"
+	}
+}
