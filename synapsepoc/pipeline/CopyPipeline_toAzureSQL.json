@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy_qzn",
+				"name": "Copy_toAzureSQL",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
