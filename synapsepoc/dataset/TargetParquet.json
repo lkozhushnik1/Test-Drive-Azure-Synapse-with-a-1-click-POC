@@ -1,0 +1,20 @@
+{
+	"name": "TargetParquet",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ADLSRaw",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": "BCC/TripData",
+				"fileSystem": "enriched"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	}
+}
