@@ -1,0 +1,28 @@
+{
+	"name": "DataverseToParquet",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"linkedService": {
+						"referenceName": "ADLSRaw",
+						"type": "LinkedServiceReference"
+					},
+					"name": "ADLS"
+				}
+			],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "Parquet",
+						"type": "DatasetReference"
+					},
+					"name": "Parquet"
+				}
+			],
+			"transformations": [],
+			"script": "parameters{\n\tContainerName as string (\"Dataverse Container Name\"),\n\tTableName as string (\"Dataverse Table Name\")\n}\nsource(allowSchemaDrift: true,\n\tvalidateSchema: false,\n\tignoreNoFilesFound: false,\n\tformat: 'delimited',\n\tfileSystem: 'raw',\n\tcolumnDelimiter: ',',\n\tescapeChar: '\\\\',\n\tquoteChar: '\\\"',\n\tcolumnNamesAsHeader: true,\n\tmanifestType: 'model') ~> ADLS\nADLS sink(allowSchemaDrift: true,\n\tvalidateSchema: false,\n\tformat: 'parquet',\n\tumask: 0022,\n\tpreCommands: [],\n\tpostCommands: [],\n\tskipDuplicateMapInputs: true,\n\tskipDuplicateMapOutputs: true) ~> Parquet"
+		}
+	}
+}
