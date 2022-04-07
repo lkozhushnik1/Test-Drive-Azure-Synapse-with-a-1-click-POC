@@ -21,8 +21,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "latest_trips",
-				"folderPath": "BCC/TripData"
+				"folderPath": "BCC/TripData",
+				"fileSystem": "enriched"
 			},
 			"compressionCodec": "snappy"
 		},
