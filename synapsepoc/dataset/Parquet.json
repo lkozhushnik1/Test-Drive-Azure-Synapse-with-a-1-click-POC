@@ -21,14 +21,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"folderPath": {
-					"value": "concat(@dataset().TableName, \"/Snapshot\")",
-					"type": "Expression"
-				},
-				"fileSystem": {
-					"value": "@dataset().ContainerName",
-					"type": "Expression"
-				}
+				"fileName": "latest_trips",
+				"folderPath": "BCC/TripData"
 			},
 			"compressionCodec": "snappy"
 		},
