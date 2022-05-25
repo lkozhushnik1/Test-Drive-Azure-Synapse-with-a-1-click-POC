@@ -1,0 +1,16 @@
+{
+	"name": "demoadxtable1",
+	"properties": {
+		"content": {
+			"query": ".create table TestTable ingestion json mapping 'TestMapping' '[{\"column\":\"TimeStamp\", \"Properties\": {\"Path\": \"$.timeStamp\"}},{\"column\":\"Name\", \"Properties\": {\"Path\":\"$.name\"}} ,{\"column\":\"Metric\", \"Properties\": {\"Path\":\"$.metric\"}}, {\"column\":\"Source\", \"Properties\": {\"Path\":\"$.source\"}}]'",
+			"metadata": {
+				"language": "kql"
+			},
+			"currentConnection": {
+				"poolName": "demoadxpool1",
+				"databaseName": "demoadxdb1"
+			}
+		},
+		"type": "KqlQuery"
+	}
+}
