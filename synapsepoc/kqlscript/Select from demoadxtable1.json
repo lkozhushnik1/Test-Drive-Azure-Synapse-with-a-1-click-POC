@@ -1,0 +1,16 @@
+{
+	"name": "Select from demoadxtable1",
+	"properties": {
+		"content": {
+			"query": "demoadxTable1\n| sort by dropoff_datetime desc\n| take 10",
+			"metadata": {
+				"language": "kql"
+			},
+			"currentConnection": {
+				"poolName": "demoadxpool1",
+				"databaseName": "demoadxdb1"
+			}
+		},
+		"type": "KqlQuery"
+	}
+}
