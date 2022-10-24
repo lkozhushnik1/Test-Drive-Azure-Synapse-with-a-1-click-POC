@@ -81,12 +81,6 @@
 						]
 					}
 				},
-				"inputs": [
-					{
-						"referenceName": "SourceDataset_qzn",
-						"type": "DatasetReference"
-					}
-				],
 				"outputs": [
 					{
 						"referenceName": "AzureSqlDemoDB",
