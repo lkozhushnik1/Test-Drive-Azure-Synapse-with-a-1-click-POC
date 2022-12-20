@@ -1,0 +1,1010 @@
+{
+	"name": "AutoInsurancePolicy",
+	"properties": {
+		"Name": "AutoInsurancePolicy",
+		"EntityType": "TABLE",
+		"Namespace": {
+			"DatabaseName": "PropertyCasualtyInsurance_5rm"
+		},
+		"Description": "Insurance designed to protect against losses involving automobiles. All types of policies, including basic liability, collision and comprehensive, etc. come together to constitute automobile insurance.\n\nPersonal Auto Policy: The most common auto insurance policy sold today. Often referred to as \"PAP,\" this policy is written in simple wording and provides coverage for liability, medical payments, uninsured/underinsured motorist coverage, and physical damage protection.\n\nAUTO INSURANCE POLICY\nThere are basically six different types of coverages. Some may be required by law. Others are optional. They are:\n\n1. Bodily injury liability, for injuries the policyholder causes to someone else.\n\n2. Medical payments or Personal Injury Protection (PIP) for treatment of injuries to the driver and passengers of the policyholder's car.\n\n3. Property damage liability, for damage the policyholder causes to someone else's property.\n\n4. Collision, for damage to the policyholder's car from a collision.\n\n5. Comprehensive, for damage to the policyholder's car not involving a collision with another car (including damage from fire, explosions, earthquakes, floods, and riots), and theft.\n\n6. Uninsured motorists coverage, for costs resulting from an accident involving a hit-and-run driver or a driver who does not have insurance.\n\nA specific type(s) of insurance coverage associated with an insurance policy.\n\nEx:\nLIABILITY\n- Bodily injury\n- First Aid Expenses\n- Damage To Other Vehicles\n- Court Costs\n- Other Property Damage\nMEDICAL EXPENSES\n- Hospital Expenses\n- Ambulance Fees\n- Physician Services\n- Funeral Expenses\nCOMPREHENSIVE\n- Theft\n- Fire\n- Vandalism\n- Collision with Animals\n- Falling Objects\n- Glass Breakage\n- Flood\n- Hail\n- Windstorm\nCOLLISION\n- Other Vehicles\n- Stationary Objects\n- Upset\n- While Parked\nUNINSURED MOTORIST\n- Riding in your vehicle\n- Property Damage\nOTHER \n- Newly Acquired Vehicle\n- Emergency Road Service\n- Auto Rental Reimbursement\n- Accidental Death and Dismemberment\n- Combined Single Limit\n- Drive-Other-Car (Endorsement)\n- Extended Non-Lower Liability\n\nwhere:\n\nAuto insurance coverage is packaged into different coverage types. It is usually easiest to determine what you are required to purchase. Then, you determine what you have that needs to be protected. You purchase insurance to protect yourself (your family) in the event that you suffer a loss to your person or property and you purchase insurance to protect yourself (your family) from losses suffered by others. Below is a breakdown of each car insurance coverage type to help you understand more about what each type of coverage protects. Next to each type is a term that is usually associated with that coverage type.\n\nLIABILITY COVERAGE (LIABILITY)\nBODILY INJURY LIABILITY \nCovers other people's bodily injuries or death for which you are responsible. It also provides for a legal defense if another party in the accident files a lawsuit against you. Claims for bodily injury may be for such things as medical bills, loss of income or pain and suffering. In the event of a serious accident, you want enough insurance to cover a judgment against you in a lawsuit, without jeopardizing your personal assets. Bodily injury liability covers injury to people, not your vehicle. Therefore, it is a good idea (and usually a company requirement) to have the same level of coverage for all of your cars. Bodily Injury Liability does NOT cover you or other people on your policy. Coverage is limited to the terms and conditions contained in the policy. It is mandatory in most states.\n\nHow much protection does this coverage provide?\nThe dual coverage limits refer to the maximum amounts that will be paid per person, per incident, respectively.\n\nEssential things to keep in mind when selecting your Bodily Injury limits:\nIf you select limits that are too low, you could be putting yourself at risk financially. \n\nFor example, if either you or a driver covered by your policy cause a serious injury where damages exceed your limits, you will be held responsible for the amount above your limits. To make that payment, you could be forced to liquidate property, savings, and other assets, or your future earnings could be attached. By purchasing liability limits to account for both your current assets and future net worth, you can help protect yourself against this risk.\n\nPROPERTY DAMAGE LIABILITY \nCovers you if your car damages someone else's property. Usually it is their car, but it could be a fence, a house or any other property damaged in an accident. It also provides you with legal defense if another party files a lawsuit against you. It is a good idea to purchase enough of this insurance to cover the amount of damage your car might do to another vehicle or object. Coverage is limited to the terms and conditions contained in the policy.\nHow much protection does this coverage provide?\n\nThe coverage limits refer to the maximum amounts that will be paid per accident.\n\nEssential things to keep in mind when selecting your Property Damage limits:\nIf you select limits that are too low, you could be putting yourself at risk financially. For example, if either you or a driver covered by your policy cause a serious accident where damages exceed your limits, you will be held responsible for the amount above your limits. To make that payment, you could be forced to liquidate property, savings, and other assets, or your future earnings could be attached. By purchasing liability limits to account for both your current assets and future net worth, you can help protect yourself against this risk.\n\nPHYSICAL DAMAGE COVERAGE (COMP AND COLL)\nCOMPREHENSIVE COVERAGE (OTHER THAN COLLISION, OTC, COMP):\nCovers your vehicle, and other vehicles (in limited scenarios) you may be driving for losses resulting from incidents other than collision. For example, comprehensive insurance covers damage to your car if it is stolen; or damaged by flood, fire, or animals. It pays to fix your vehicle less the deductible you choose. To keep your premiums low, select as high a deductible as you feel comfortable paying out of pocket. Coverage is limited to the terms and conditions contained in the policy. This is not required by a state, but if you have a loan or a lease then the lien holder will require it.\nHow much protection does this coverage provide?\n\nThe amount you see typically refers to the deductible, or the portion of a claim you are responsible for paying.\n\nA higher deductible can substantially lower the cost of insurance premiums. You should balance this savings against your ability to absorb a larger out-of-pocket expense. \n\nFor example, if you set your deductible at $1,000 and your car sustains damages totaling $1,500, you will pay $1,000 and your insurance company will pay $500.\n\nWho might benefit from buying Comprehensive coverage?\n- If your car is financed or leased, the finance company will probably require that you carry this coverage.\n- If you have a newer vehicle or one in excellent condition, you may need this coverage to replace or repair the vehicle in case of loss.\n- If you have an older car or one in poor condition, you may not want to pay for this coverage.\n\nCOLLISION COVERAGE \nCovers damage to your car when your car hits, or is hit by, another vehicle, or other object. Pays to fix your vehicle less the deductible you choose. To keep your premiums low, select as large a deductible as you feel comfortable paying out of pocket. For older cars, consider dropping this coverage, since coverage is normally limited to the cash value of your car. Coverage is limited to the terms and conditions contained in the policy. This is not required by a state, but if you have a loan or a lease then the lien holder will require it.\nHow much protection does this coverage provide?\n\nThe amount you see typically refers to the deductible, or the portion of a claim that you're responsible for paying.\n\nA higher deductible can substantially lower the cost of insurance premiums. You should balance this savings against your ability to absorb a larger out-of-pocket expense.\n\nFor example, if you set your deductible at $1,000 and your car sustains damages totaling $1,500, you will pay $1,000 and your insurance company will pay $500.\n\nWho might benefit from buying Collision coverage?\n- If your car is financed or leased, the finance company will probably require that you carry this coverage.\n- If you have a newer vehicle or one in excellent condition, you may need this coverage to replace or repair the vehicle in case of loss.\n- If you have an older car or one in poor condition, you may not want to pay for this coverage.\n\nUNINSURED AND UNDERINSURED MOTORIST COVERAGE (UM)\nUNINSURED MOTORIST BODILY INJURY (UM):\n\nCovers you, the insured members of your household and your passengers for bodily/personal injuries, damages, or death caused by an at-fault uninsured or hit-and-run driver. If you are involved in an accident where the other driver is at fault but has no insurance, your policy will cover your medical expenses, up to the limit on your policy.\n\nWho is covered?\n\n- Policyholder\n- Other drivers covered by the policy\n- Passengers\n\nHow much protection does this coverage provide?\nIf the other driver involved in an accident is uninsured, this coverage pays up to the limit you purchase. The coverage limits refer to the maximum amount that will be paid per person, per incident, respectively.\nWho might benefit from buying uninsured motorist bodily injury coverage?\nIndividuals without health insurance may benefit from this coverage, because if the limits chosen are inadequate, you will be responsible for paying the additional amount.\n\nUNDERINSURED MOTORIST BODILY INJURY (UNDUM):\nCovers you, the insured members of your household and your passengers for injuries, damages or death caused by the negligence of a person with insufficient insurance. If you have an accident with a person whose coverage cannot meet your damages, your policy will meet the difference-up to the limit of liability listed on your policy.\n\nWho is covered?\n- Policyholder\n- Other drivers covered by the policy\n- Passengers\n\nHow much protection does this coverage provide?\nIf the other driver involved in an accident is underinsured, this coverage typically pays any difference between what the other driver's insurance covers and what your bodily injury coverage will pay. The coverage limits refer to the maximum amount that will be paid per person, per incident, respectively. If the limits you purchase are lower than an accident's costs, you'll be responsible for paying the amounts over your limits, unless you're covered by health insurance.\n\nWho might benefit from buying uninsured motorist bodily injury coverage?\nIndividuals without health insurance may benefit from this coverage, because if the limits chosen are inadequate, you will be responsible for paying the additional amount.\n\nBoth UM and UNDUM coverage can be combined or sold separately depending on the state and the insurance carrier.\n\nUNINSURED PROPERTY DAMAGE (UMPD):\nCovers your auto when property damage is sustained by an insured and the negligent operator does not possess insurance.\n\nHow much protection does this coverage provide?\nIf you don't have Collision coverage, Uninsured Motorist Property Damage coverage pays up to a certain amount for repairs to the insured car (some states have limits at $3500, some are lower and some are higher). If you have Collision coverage, Uninsured Motorist Property Damage coverage only pays your Collision deductible (in some states).\n\nDoes this coverage replace Collision coverage?\nNo. Uninsured Motorist Property Damage alone is not enough to cover all potential car repair/replacement costs, and only applies if you are involved in an accident caused by a driver without insurance coverage.\n\nUNDERINSURED MOTORIST PROPERTY DAMAGE (UNDPD):\nCovers when property damage is sustained by an insured and the negligent operator possesses insurance, but the limits of liability carried by the negligent driver are not sufficient to cover the damages.\n\nHow much protection does this coverage provide?\nIf you don't have Collision coverage, Underinsured Motorist Property Damage coverage pays up to a certain amount for repairs to the insured car (some states have limits at $3500, some are lower and some are higher) If you have Collision coverage, Underinsured Motorist Property Damage coverage only pays your Collision deductible (in some states).\n\nDoes this coverage replace Collision coverage?\nNo. Underinsured Motorist Property Damage alone is not enough to cover all potential car repair/replacement costs, and only applies if you are involved in an accident caused by a driver without enough liability insurance coverage.\nBoth UMPD and UNDPD coverage can be combined or sold separately depending on the state and insurance carrier.\n\nOTHER COVERAGE TYPES\n\nPERSONAL INJURY PROTECTION COVERAGE (PIP or MEDEX):\nCovers within the specified limits, the medical, hospital and funeral expenses of the insured, others in his vehicles and pedestrians struck by him. The basic coverage for the insured's own injuries on a first-party basis, without regard to fault. It is only available in certain states. Depending on the state, the covered parties below and the amount of protection may vary.\n\nWho is covered?\n- Policyholder\n- Policyholder's relatives in the same household\n- Passengers\n- Other authorized drivers\n- Policyholder and family members if they are injured while riding in someone else's car or as a pedestrian when struck by another vehicle. (in some states)\n\nHow much protection does this coverage provide?\nTotal payments covered by PIP are the limits indicated. That is the maximum amount that will be paid per person for any combination of covered expenses (some states offer limits and others set it to an amount like $10,000). Specific limits and coverages vary by state.\n\nWho might benefit from buying additional medical coverage along with PIP?\nPeople who don't have health insurance that adequately covers the expenses listed above or people who carpool or frequently drive with passengers.\n\nRelated Coverage:\nAdditional Personal Injury Protection is available in some states where PIP is available; some carriers may offer Additional PIP. Additional Personal Injury Protection acts as a supplement to the PIP coverage required by your state.\nGuest Personal Injury Protection provides coverage to guest passengers in your vehicles. It is required when all drivers on your policy have rejected no-fault coverage (state of Kentucky).\n\nIn states like New Jersey, you have to choose a Personal Injury Protection Plan. Here is a description of those choices:\n Full PIP Primary- acts as the primary coverage for injuries sustained by you or your passengers in an auto accident. This option also covers income continuation, funeral expenses, death benefits, and essential services expenses, as detailed below. \n- Full PIP Health Primary- should be purchased if another health insurance provider acts as the primary coverage for injuries sustained by you or your passengers in an auto accident. This option also covers income continuation, funeral expenses, death benefits, and essential services expenses, as detailed below. Please note: Full PIP Health Primary is not available if you use Medicare or Medicaid as your primary health insurance or if you are an active member of the military. In addition, some health insurers do not cover injuries related to car accidents. If you are unsure of what your health insurance covers, you should select Full PIP Primary or Medical Only PIP Primary. \n\n- Medical Only PIP Primary- acts as the primary coverage for injuries sustained by you or your passengers in an auto accident. \n- Medical Only Health Primary- should be purchased if another health insurance provider acts as the primary coverage for injuries sustained by you or your passengers in an auto accident. Please note: Medical Only Health Primary is not available if you use Medicare or Medicaid as your primary health insurance or if you are an active member of the military. In addition, some health insurers do not cover injuries related to car accidents. If you are unsure of what your health insurance covers, you should select Full PIP Primary or Medical Only PIP Primary.\n\nBASIC AND ADDITIONAL REPARATION BENEFITS (BRP or PIP):\nBasic Reparations Benefits will cover medical up to the selected amount. In some states, Additional Reparations Benefits is available to extend additional benefits. Additional Reparations Benefits is usually primary over any Health Insurance. This coverage is optional and you cannot have Medical Payments with this coverage.\n\nFIRST PARTY BENEFITS - MEDICAL (FPB OR MEDEX):\nFirst Party Benefits cover several areas of insurance coverage; however, this definition is for First Party Benefits-Medical. Similar to medical payments coverage and Personal Injury Protection, FPB helps pay for your medical expenses if you or relatives living in your household are injured in an accident. Specific limits and coverages vary by state, but typically these services include:\n- Related medical and surgical treatment\n- Essential rehabilitative services (physical therapy, speech pathology, etc.)\n- Necessary dental, psychiatric, psychological, and optometric treatment\n- Ambulance and nursing service\n- Required medications, medical supplies, and prosthetic devices\n\nWho is covered?\nFirst Party Benefits-Medical provides coverage to the policyholder, drivers listed on the policy and relatives living in the same household as the policyholder.\n\nHow much protection does this coverage provide?\n\nTotal payments covered by FPD are the limits indicated. That is the maximum amount that will be paid per person for any combination of covered expenses.\nIn addition to First Party Benefits - Medical, these coverages are available and sometimes combined as a package: First Party Benefits - Accidental Death, First Party Benefits - Combination Package, First Party Benefits - Extraordinary Medical, First Party Benefits - Funeral, and First Party Benefits - Income Loss.\n\nMEDICAL PAYMENTS (MEDPM):\nCovers medical expenses to you and your passengers injured in an accident. There may also be coverage if as a pedestrian a vehicle injures you. This coverage applies, regardless as to who is at fault. Medical Payments may also cover policyholders and their family members when they are injured while riding in someone else's car or when a car hits them while on foot or bicycling. Coverage is limited to the terms and conditions contained in the policy.\n\nWho might benefit from buying Medical Payments coverage?\nIf you and your regular passengers already have health insurance that covers similar expenses, medical payments coverage may be unnecessary. Check your health insurance policy for details.\n\nWORK LOSS:\nAlso referred to as Optional Basic Economical Loss \nThis coverage helps you, drivers listed on your policy, and your passengers recover lost wages if you are unable to work due to accident-related injuries. \n\nLOAN/LEASE GAP INSURANCE (LLG):\nAlso referred to as GAP, Loan/Lease Payoff\nLoan/Lease Gap Coverage is optional. To buy this coverage, you must have Collision coverage and Comprehensive coverage. You must have a deductible and your car must have a lien holder because it is financed or leased.\n\nThis coverage protects you if your car gets damaged and will reimburse you for the difference between the following items: \n- The actual cash value of your car at the time of the loss, less the applicable deductible and the vehicle's salvage value (if retained by the owner or insured) and;\n- Any greater amount owed on the vehicle at the time of loss, less any unpaid finance charges, excess mileage or wear and tear charges, any other charges or expenses associated with the loan or lease, and the vehicle's salvage value (if retained by the owner or insured).\nPlease follow this link to learn more about GAP Insurance. GAP insurance is usually available as a separate policy from the auto policy. It is much less expensive to purchase LLG coverage with your policy.\n\nRENTAL CAR REIMBURSEMENT (RREIM):\nCovers renting a car if your car is not drivable or while your car is being repaired because of a covered accident.\n\nTOWING AND LABOR (TL):\nAlso, referred to as Tow Club, Emergency Road Service, Emergency Roadside Service\nCoverage is only available if you purchase Comprehensive and/or Collision Coverage. Some policies limit coverage to pay only when a claim has been issued against your physical damage coverage (an accident). Coverage limits are different for each carrier, but typically, this is what is covered. \n\nACCIDENTAL MEDICAL PROTECTION PLAN (AMPP):\nAlso referred to as Accidental Death and Dismemberment\nCovers you (or family under a Family Plan) while driving or riding in any private passenger vehicle. Defined accident medical expenses are paid directly to you without a deductible.\nWhat is covered? \n- Towing \n- Tire changing \n- Gas, oil, and water delivery \n- Battery services \n- Lockout services'\n\nHow much protection does this coverage provide? \nThe coverage limits you see in your quote refer to the maximum amount that will be paid per incident, per term, respectively. \n\nPROPERTY PROTECTION INSURANCE (PPI):\nThis is required coverage in Michigan. It provides protection if you cause damage to properly parked vehicles or fixed properties such as buildings or lampposts in the state of Michigan.\n\nACCIDENTAL DEATH BENEFIT (ADB or ADD):\nAlso, referred to as Accidental Death, Accidental Death Indemnity\nA death benefit pays if bodily injury causes the death of you or a covered family member.\nCUSTOM PARTS AND EQUIPMENT (CPE):\nAlso, referred to as Additional Customized Parts Or Equipment, Customized Parts and Equipment, Electronic Equipment\nCovers if your vehicle has permanently installed custom parts or equipment other than those installed by the original manufacturer.\n\nExamples of customized equipment include: \n- Any dealer-installed equipment that is not offered by the original manufacturer \n- Special equipment on vehicles, vans, and trucks, including: running boards, brush bars, roll bars, undercarriage lighting, fog lights, bed liners, camper shells, trailer hitches, etc. \n- Customized wheels, spoilers, suspensions or performance-related equipment \n- Stereo, sound recording and television equipment \n- Customized paint or decals",
+		"TableType": "EXTERNAL",
+		"Origin": {
+			"Type": "SPARK"
+		},
+		"StorageDescriptor": {
+			"Columns": [
+				{
+					"Name": "InsurancePolicyId",
+					"Description": "The unique identifier of an Insurance Policy.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "InsurancePolicyId"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "integer",
+						"IsComplexType": false,
+						"IsNullable": false,
+						"Properties": {
+							"HIVE_TYPE_STRING": "integer"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "AgreementDefinition",
+					"Description": "The legal definition of \"agreement\" as related to the insurance policy.\n\nEx:\n\"...in return for payment of the premium and subject to all terms of this policy, we agree with...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "AgreementDefinition"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "BodilyInjuryDefinition",
+					"Description": "The legal definition of \"bodily injury\" as related to the insurance policy.\n\nEx:\n\"...means bodily harm, sickness or disease, including death that results...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "BodilyInjuryDefinition"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "BusinessDefinition",
+					"Description": "The legal definition of \"business\" as related to the insurance policy.\n\nEx:\n\"..means trade, profession or occupation...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "BusinessDefinition"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "FamilyMemberDefinition",
+					"Description": "The legal definition of \"family member\" as related to the insurance policy.\n\nEx:\n\"...means a person related to you by blood, marriage or adoption who is a resident of your household...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "FamilyMemberDefinition"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "OccupyingDefinition",
+					"Description": "The legal definition of \"occupying\" as related to the insurance policy.\n\nEx:\n\"..means in, upon, getting in, on, out or off...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "OccupyingDefinition"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "PropertyDamageDefinition",
+					"Description": "The legal definition of \"property damage\" as related to the insurance policy.\n\nEx:\n\"...means physical injury to, destruction of, or loss of use of tangible property...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "PropertyDamageDefinition"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "TrailerDefinition",
+					"Description": "The legal definition of \"trailer\" as related to the insurance policy.\n\nEx:\n\"...means a vehicle designed to be pulled by a private passenger auto, pickup truck or van...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "TrailerDefinition"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "CoveredAutoDefinition",
+					"Description": "The legal definition of \"covered auto\" as related to the insurance policy.\n\nEx:\n\"...any vehicle shown in the declarations...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "CoveredAutoDefinition"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "InsuredDefinition",
+					"Description": "The legal definition of \"insured\" as related to the insurance policy.\n\nEx:\n\"...you or any family member for the ownership, maintenance or use of any auto or trailer...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "InsuredDefinition"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "AgreementClause",
+					"Description": "A contractual statement regarding the obligations of the insurance provider and the insured.\n\nEx:\n\"...the company agrees to provide the insurance described in this policy.   In return, the insured agrees to pay the premium and comply with the policy terms...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "AgreementClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "CoverageClause",
+					"Description": "A contractual statement regarding \"coverage we will pay\" as related to the insurance policy.\n\nEx:\n\"...the insurer will pay when an insured becomes legally obligated to pay for personal injury or property damage caused by an occurrence...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "CoverageClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "ChangesToPolicyProvisionsClause",
+					"Description": "A vehicle insurance policy statement detailing what occurs in case of changes to information provided to the insurance company that are used to compile premiums, quotes etc.\n\nEx\"\n\"...premium adjustments may be made as a result of a change in ...autos, drivers, coverages, rating territory, eligibility for discounts...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "ChangesToPolicyProvisionsClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "LimitOfLiabilityClause",
+					"Description": "A contractual statement regarding \"limits of liability\" as related to the insurance policy.\n\nEx:\n\"...insurer will not pay any amount exceeding the limits shown in the declarations...if no other insurance is required and no other insurance applies to the occurrence, the insured will pay only those amounts which exceed the ...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "LimitOfLiabilityClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "ConcealmentOfFraudClause",
+					"Description": "A contractual statement regarding \"concealment of fraud\" as related to the insurance policy.\n\nEx:\n\"...insurer does not provide coverage for an insured who has intentionally concealed or misrepresented any material fact or circumstance...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "ConcealmentOfFraudClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "ArbitrationClause",
+					"Description": "A vehicle insurance policy statement addressing the use of arbitration when no agreement can be come to by the insured and insurer.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "ArbitrationClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "AmountInsurerWillPayClause",
+					"Description": "A contractual statement regarding \"amounts insurer will pay\" as related to the insurance policy.\n\nEx:\n\"...insurer will pay only those amounts without our limit of liability which exceed the sum of...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "AmountInsurerWillPayClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "RightToRecoverPaymentProvisionClause",
+					"Description": "A vehicle insurance policy statement detailing what occurs in case the insurance company makes a payment under the policy and the person to or for whom payment has a right to recover damages from another we shall be subrogated to that right.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "RightToRecoverPaymentProvisionClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "OutOfStateCoverageClause",
+					"Description": "A vehicle insurance policy statement detailing out of state coverage.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "OutOfStateCoverageClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "InsurableInterestAndLimitOfLiabilityClause",
+					"Description": "A contractual statement regarding \"insurable interest and limits of liability\" as related to the insurance policy.\n\nEx:\n\"...total liability under coverage for all damages will not be more than the limit of liability as shown in the declarations...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "InsurableInterestAndLimitOfLiabilityClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "DutiesAfterLossClause",
+					"Description": "A contractual statement regarding \"duties after loss\" as related to the insurance policy.\n\nEx:\n\"...In case of an accident or occurrence, the insured will perform the following duties that apply...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "DutiesAfterLossClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "TerminationProvisionClause",
+					"Description": "A vehicle insurance policy statement addressing what happens in the event of a policy termination.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "TerminationProvisionClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "NoticeClause",
+					"Description": "A contractual statement regarding \"notice clause\" as related to the insurance policy.\n\nEx:\n\"..the insured must give the insurer prompt written notice of any occurrence...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "NoticeClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "RightOfAppealClause",
+					"Description": "A contractual statement regarding \"right of appeal\" as related to the insurance policy.\n\nEx:\n\"..if an insured or any other insurer elects not to appeal a judgment the insurer may do so...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "RightOfAppealClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "NoBenefitToBaileeClause",
+					"Description": "A contractual statement regarding \"No benefit to bailee\" as related to the insurance policy.\n\nEx:\n\"...we will not recognize any assignment or grant any coverage that benefits a person or organization holding, storing or moving property for free regardless of any other provision in this policy...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "NoBenefitToBaileeClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "AssistanceAndCooperationClause",
+					"Description": "A contractual statement regarding \"assistance and cooperation\" as related to the insurance policy.\n\nEx:\n\"..except as agreed, the insured are not required to settle or defend any claim or suit against an insured..\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "AssistanceAndCooperationClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "SuitAgainstInsurerClause",
+					"Description": "An insurance policy statement detailing what occurs in case of legal actions brought against the insurance company.\n\nEx:\n\"...No legal action may be brought against the insurance company until there has been full compliance with all the terms of this policy...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "SuitAgainstInsurerClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "PolicyPeriodClause",
+					"Description": "A contractual statement regarding \"policy period\" as related to the insurance policy.\n\nEx:\n\"...this policy applies only to loss, bodily injury or property damage which occurs during the policy period...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "PolicyPeriodClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "ClaimsForLossClause",
+					"Description": "A contractual statement regarding \"claims for loss\" as related to the insurance policy.\n\nEx:\n\"..the insured will not begin to make payment for any occurrence covered by this policy until our liability has been determined by...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "ClaimsForLossClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "PaymentOfClaimClause",
+					"Description": "A contractual statement regarding \"payment of claim\" as related to the insurance policy.\n\nEx:\n\"...payment under this coverage is not an admission of liability by an insured or us...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "PaymentOfClaimClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "ExclusionsClause",
+					"Description": "A vehicle insurance policy statement detailing exclusions to the insurance policy.\n\nEx:\n\"...we do not provide coverage for any of the following...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "ExclusionsClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "OtherTerminationProvisionsClause",
+					"Description": "A vehicle insurance policy statement addressing what happens in the event of a policy termination for reasons other than termination, cancellation or nonrenewal.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "OtherTerminationProvisionsClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "TransportationExpensesClause",
+					"Description": "A vehicle insurance policy statement addressing the payment of transportation-related expenses in various scenarios.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "TransportationExpensesClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "TransferOfYourInterestInThisPolicyProvisionsClause",
+					"Description": "A vehicle insurance policy statement addressing what happens regarding the assignment or rights and duties under the policy.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "TransferOfYourInterestInThisPolicyProvisionsClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "TowingAndLaborCostsProvisionsClause",
+					"Description": "A vehicle insurance policy statement addressing what happens regarding towing and labor costs under the insurance policy.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "TowingAndLaborCostsProvisionsClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "AppraisalClause",
+					"Description": "A vehicle insurance policy statement detailing what occurs in case of legal actions brought against the insurance company.\n\nEx:\n\"...either party may demand an appraisal of loss, in this even...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "AppraisalClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "ExtendedTransportationExpensesProvisionsClause",
+					"Description": "A vehicle insurance policy statement addressing what happens regarding extended transportation costs under the insurance policy.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "ExtendedTransportationExpensesProvisionsClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "FinancialResponsibilityRequiredClause",
+					"Description": "A vehicle insurance policy statement detailing  \"when this policy is certified as future proof of financial responsibility, this policy will comply with the law to the extent required\".",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "FinancialResponsibilityRequiredClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "OtherInsuranceClause",
+					"Description": "A vehicle insurance policy statement detailing  coverage in case other coverages exist.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "OtherInsuranceClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "RightToRecoverPaymentClause",
+					"Description": "A vehicle insurance policy statement detailing what occurs in case of legal actions brought against the insurance company.\n\nEx:\n\"...if insurer makes a payment under this policy and the person to or for whom payment was made has a right to recover damages from another we shall be subrogated to that right...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "RightToRecoverPaymentClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "AudioVisualAndDataElectronicEquipmentCoverageProvisionsClause",
+					"Description": "A vehicle insurance policy statement addressing what happens regarding audio, visual equipment and electronic equipment under the insurance policy.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "AudioVisualAndDataElectronicEquipmentCoverageProvisionsClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "InsuringAgreementProvisionsClause",
+					"Description": "A vehicle insurance policy statement addressing what will be paid for under the insurance policy.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "InsuringAgreementProvisionsClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "InsuranceExclusionsProvisionsClause",
+					"Description": "A vehicle insurance policy statement addressing what will not be paid for under the insurance policy.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "InsuranceExclusionsProvisionsClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "TransferOfInterestClause",
+					"Description": "A vehicle insurance policy statement detailing what occurs in case of legal actions brought against the insurance company.\n\nEx:\n\"...your rights, duties under this policy may be not assigned without written consent...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "TransferOfInterestClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "CancellationClause",
+					"Description": "A contractual statement regarding \"cancellation\" as related to the insurance policy.\n\nEx:\n\"...you may cancel this policy at any time by writing to us or by letting us known in writing of the date cancellation is to take effect...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "CancellationClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "NonRenewalClause",
+					"Description": "A contractual statement regarding \"non-renewal\" as related to the insurance policy.\n\nEx:\n\"...insurer may elect not to renew this policy and may do so by delivering to you...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "NonRenewalClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "BankruptcyOfAnInsuredClause",
+					"Description": "A contractual statement regarding \"bankruptcy of an insured\" as related to the insurance policy.\n\nEx:\n\"...bankruptcy or insolvency of an insured will not relieve insurer of obligations under this policy...\"",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "BankruptcyOfAnInsuredClause"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 2048,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "StackableUnderinsuredMotoristCoverageAppliesIndicator",
+					"Description": "Stacked Uninsured Motorist (UM) and Stacked Underinsured Motorist (UIM)\n  \n\"Stacking\" uninsured motorist coverage allows you to combine limits of uninsured motorist coverage for all vehicles on the policy. This option is only available on all policies with more than one vehicle. The same \"stacking\" of coverage may be available on underinsured motorist coverage. \nExample:\n1. Limits represent thousands of dollars and are expressed in the following format: \n\"100/300\" \nThat is: A maximum of $100,000 for bodily injury to one person and $300,000 in aggregate for bodily injury sustained by two or more persons in a single accident. \n2. If you have selected 100/300 limits and you are insuring three vehicles on one policy, your stacked limits would total 300/900. \nThat is: A maximum of $300,000 for bodily injury to one person and $900,000 in aggregate for bodily injury sustained by two or more persons in a single accident.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "StackableUnderinsuredMotoristCoverageAppliesIndicator"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "boolean",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Properties": {
+							"HIVE_TYPE_STRING": "boolean"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "AssignedRiskInsurancePlanIndicator",
+					"Description": "The name for \"assigned risk\" plans. These are plans set up and monitored by the state to help people who are unable to secure auto insurance through standard insurance carriers. See Assigned Risk.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "AssignedRiskInsurancePlanIndicator"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "boolean",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Properties": {
+							"HIVE_TYPE_STRING": "boolean"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "StackableUninsuredMotoristCoverageAppliesIndicator",
+					"Description": "Stacked Uninsured Motorist (UM) and Stacked Underinsured Motorist (UIM)\n  \n\"Stacking\" uninsured motorist coverage allows you to combine limits of uninsured motorist coverage for all vehicles on the policy. This option is only available on all policies with more than one vehicle. The same \"stacking\" of coverage may be available on underinsured motorist coverage. \nExample:\n1. Limits represent thousands of dollars and are expressed in the following format: \n\"100/300\" \nThat is: A maximum of $100,000 for bodily injury to one person and $300,000 in aggregate for bodily injury sustained by two or more persons in a single accident. \n2. If you have selected 100/300 limits and you are insuring three vehicles on one policy, your stacked limits would total 300/900. \nThat is: A maximum of $300,000 for bodily injury to one person and $900,000 in aggregate for bodily injury sustained by two or more persons in a single accident.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "StackableUninsuredMotoristCoverageAppliesIndicator"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "boolean",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Properties": {
+							"HIVE_TYPE_STRING": "boolean"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "NoFaultInsuranceIndicator",
+					"Description": "Auto insurance coverage that pays for each driver's own injuries, regardless of who caused the accident. No-fault varies from state to state. It also refers to an auto liability insurance system that restricts lawsuits to serious cases. Such policies are designed to promote faster reimbursement and to reduce litigation.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "NoFaultInsuranceIndicator"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "boolean",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Properties": {
+							"HIVE_TYPE_STRING": "boolean"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "AssignedRiskAutoInsurancePlanIndicator",
+					"Description": "These are plans set up and monitored by the state to help people who are unable to secure auto insurance through standard insurance carriers. See Assigned Risk.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "AssignedRiskAutoInsurancePlanIndicator"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "boolean",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Properties": {
+							"HIVE_TYPE_STRING": "boolean"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				},
+				{
+					"Name": "PreferredVehicleInsuranceProductIndicator",
+					"Description": "Preferred vehicle (\"auto\") is a line of vehicle insurance coverage offered to drivers with clean driving records.",
+					"BaseAttributeReference": {
+						"Entity": "AutoInsurancePolicy.cdm.json/AutoInsurancePolicy",
+						"Name": "PreferredVehicleInsuranceProductIndicator"
+					},
+					"OriginDataTypeName": {
+						"TypeName": "boolean",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Properties": {
+							"HIVE_TYPE_STRING": "boolean"
+						}
+					},
+					"DeltaFormatInvalidMessages": []
+				}
+			],
+			"Format": {
+				"InputFormat": "org.apache.hadoop.mapred.SequenceFileInputFormat",
+				"OutputFormat": "org.apache.hadoop.hive.ql.io.HiveSequenceFileOutputFormat",
+				"FormatType": "csv",
+				"SerializeLib": "org.apache.hadoop.hive.serde2.lazy.LazySimpleSerDe",
+				"Properties": {
+					"path": "abfss://dlspocpocfs1@pocncshrva5mnznepoc.dfs.core.windows.net//PropertyCasualtyInsurance_5rm/AutoInsurancePolicy",
+					"delimiter": ",",
+					"multiLine": "false",
+					"firstRowAsHeader": "false",
+					"serialization.format": "1",
+					"escape": "\\",
+					"quote": "\"",
+					"FormatTypeSetToDatabaseDefault": true,
+					"header": "false"
+				}
+			},
+			"Source": {
+				"Provider": "ADLS",
+				"Location": "abfss://dlspocpocfs1@pocncshrva5mnznepoc.dfs.core.windows.net//PropertyCasualtyInsurance_5rm/AutoInsurancePolicy",
+				"Properties": {
+					"LinkedServiceName": "pocncshrva5mnznepocws1-WorkspaceDefaultStorage",
+					"LocationSetToDatabaseDefault": true
+				}
+			},
+			"Properties": {
+				"textinputformat.record.delimiter": ",",
+				"compression": "{\"type\":\"None\",\"level\":\"optimal\"}",
+				"derivedModelAttributeInfo": "{\"attributeReferences\":{\"InsurancePolicyId\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"InsurancePolicyId\"},\"AgreementDefinition\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AgreementDefinition\"},\"BodilyInjuryDefinition\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"BodilyInjuryDefinition\"},\"BusinessDefinition\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"BusinessDefinition\"},\"FamilyMemberDefinition\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"FamilyMemberDefinition\"},\"OccupyingDefinition\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"OccupyingDefinition\"},\"PropertyDamageDefinition\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"PropertyDamageDefinition\"},\"TrailerDefinition\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"TrailerDefinition\"},\"CoveredAutoDefinition\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"CoveredAutoDefinition\"},\"InsuredDefinition\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"InsuredDefinition\"},\"AgreementClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AgreementClause\"},\"CoverageClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"CoverageClause\"},\"ChangesToPolicyProvisionsClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"ChangesToPolicyProvisionsClause\"},\"LimitOfLiabilityClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"LimitOfLiabilityClause\"},\"ConcealmentOfFraudClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"ConcealmentOfFraudClause\"},\"ArbitrationClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"ArbitrationClause\"},\"AmountInsurerWillPayClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AmountInsurerWillPayClause\"},\"RightToRecoverPaymentProvisionClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"RightToRecoverPaymentProvisionClause\"},\"OutOfStateCoverageClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"OutOfStateCoverageClause\"},\"InsurableInterestAndLimitOfLiabilityClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"InsurableInterestAndLimitOfLiabilityClause\"},\"DutiesAfterLossClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"DutiesAfterLossClause\"},\"TerminationProvisionClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"TerminationProvisionClause\"},\"NoticeClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"NoticeClause\"},\"RightOfAppealClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"RightOfAppealClause\"},\"NoBenefitToBaileeClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"NoBenefitToBaileeClause\"},\"AssistanceAndCooperationClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AssistanceAndCooperationClause\"},\"SuitAgainstInsurerClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"SuitAgainstInsurerClause\"},\"PolicyPeriodClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"PolicyPeriodClause\"},\"ClaimsForLossClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"ClaimsForLossClause\"},\"PaymentOfClaimClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"PaymentOfClaimClause\"},\"ExclusionsClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"ExclusionsClause\"},\"OtherTerminationProvisionsClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"OtherTerminationProvisionsClause\"},\"TransportationExpensesClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"TransportationExpensesClause\"},\"TransferOfYourInterestInThisPolicyProvisionsClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"TransferOfYourInterestInThisPolicyProvisionsClause\"},\"TowingAndLaborCostsProvisionsClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"TowingAndLaborCostsProvisionsClause\"},\"AppraisalClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AppraisalClause\"},\"ExtendedTransportationExpensesProvisionsClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"ExtendedTransportationExpensesProvisionsClause\"},\"FinancialResponsibilityRequiredClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"FinancialResponsibilityRequiredClause\"},\"OtherInsuranceClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"OtherInsuranceClause\"},\"RightToRecoverPaymentClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"RightToRecoverPaymentClause\"},\"AudioVisualAndDataElectronicEquipmentCoverageProvisionsClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AudioVisualAndDataElectronicEquipmentCoverageProvisionsClause\"},\"InsuringAgreementProvisionsClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"InsuringAgreementProvisionsClause\"},\"InsuranceExclusionsProvisionsClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"InsuranceExclusionsProvisionsClause\"},\"TransferOfInterestClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"TransferOfInterestClause\"},\"CancellationClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"CancellationClause\"},\"NonRenewalClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"NonRenewalClause\"},\"BankruptcyOfAnInsuredClause\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"BankruptcyOfAnInsuredClause\"},\"StackableUnderinsuredMotoristCoverageAppliesIndicator\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"StackableUnderinsuredMotoristCoverageAppliesIndicator\"},\"AssignedRiskInsurancePlanIndicator\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AssignedRiskInsurancePlanIndicator\"},\"StackableUninsuredMotoristCoverageAppliesIndicator\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"StackableUninsuredMotoristCoverageAppliesIndicator\"},\"NoFaultInsuranceIndicator\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"NoFaultInsuranceIndicator\"},\"AssignedRiskAutoInsurancePlanIndicator\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AssignedRiskAutoInsurancePlanIndicator\"},\"PreferredVehicleInsuranceProductIndicator\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"PreferredVehicleInsuranceProductIndicator\"}}}"
+			},
+			"Compressed": false,
+			"IsStoredAsSubdirectories": false
+		},
+		"Properties": {
+			"DerivedModelEntityInfo": "{\"entityDirectives\":{\"baseEntityReference\":{\"name\":\"AutoInsurancePolicy\",\"path\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\"},\"description\":\"Insurance designed to protect against losses involving automobiles. All types of policies, including basic liability, collision and comprehensive, etc. come together to constitute automobile insurance.\\n\\nPersonal Auto Policy: The most common auto insurance policy sold today. Often referred to as \\\"PAP,\\\" this policy is written in simple wording and provides coverage for liability, medical payments, uninsured/underinsured motorist coverage, and physical damage protection.\\n\\nAUTO INSURANCE POLICY\\nThere are basically six different types of coverages. Some may be required by law. Others are optional. They are:\\n\\n1. Bodily injury liability, for injuries the policyholder causes to someone else.\\n\\n2. Medical payments or Personal Injury Protection (PIP) for treatment of injuries to the driver and passengers of the policyholder's car.\\n\\n3. Property damage liability, for damage the policyholder causes to someone else's property.\\n\\n4. Collision, for damage to the policyholder's car from a collision.\\n\\n5. Comprehensive, for damage to the policyholder's car not involving a collision with another car (including damage from fire, explosions, earthquakes, floods, and riots), and theft.\\n\\n6. Uninsured motorists coverage, for costs resulting from an accident involving a hit-and-run driver or a driver who does not have insurance.\\n\\nA specific type(s) of insurance coverage associated with an insurance policy.\\n\\nEx:\\nLIABILITY\\n- Bodily injury\\n- First Aid Expenses\\n- Damage To Other Vehicles\\n- Court Costs\\n- Other Property Damage\\nMEDICAL EXPENSES\\n- Hospital Expenses\\n- Ambulance Fees\\n- Physician Services\\n- Funeral Expenses\\nCOMPREHENSIVE\\n- Theft\\n- Fire\\n- Vandalism\\n- Collision with Animals\\n- Falling Objects\\n- Glass Breakage\\n- Flood\\n- Hail\\n- Windstorm\\nCOLLISION\\n- Other Vehicles\\n- Stationary Objects\\n- Upset\\n- While Parked\\nUNINSURED MOTORIST\\n- Riding in your vehicle\\n- Property Damage\\nOTHER \\n- Newly Acquired Vehicle\\n- Emergency Road Service\\n- Auto Rental Reimbursement\\n- Accidental Death and Dismemberment\\n- Combined Single Limit\\n- Drive-Other-Car (Endorsement)\\n- Extended Non-Lower Liability\\n\\nwhere:\\n\\nAuto insurance coverage is packaged into different coverage types. It is usually easiest to determine what you are required to purchase. Then, you determine what you have that needs to be protected. You purchase insurance to protect yourself (your family) in the event that you suffer a loss to your person or property and you purchase insurance to protect yourself (your family) from losses suffered by others. Below is a breakdown of each car insurance coverage type to help you understand more about what each type of coverage protects. Next to each type is a term that is usually associated with that coverage type.\\n\\nLIABILITY COVERAGE (LIABILITY)\\nBODILY INJURY LIABILITY \\nCovers other people's bodily injuries or death for which you are responsible. It also provides for a legal defense if another party in the accident files a lawsuit against you. Claims for bodily injury may be for such things as medical bills, loss of income or pain and suffering. In the event of a serious accident, you want enough insurance to cover a judgment against you in a lawsuit, without jeopardizing your personal assets. Bodily injury liability covers injury to people, not your vehicle. Therefore, it is a good idea (and usually a company requirement) to have the same level of coverage for all of your cars. Bodily Injury Liability does NOT cover you or other people on your policy. Coverage is limited to the terms and conditions contained in the policy. It is mandatory in most states.\\n\\nHow much protection does this coverage provide?\\nThe dual coverage limits refer to the maximum amounts that will be paid per person, per incident, respectively.\\n\\nEssential things to keep in mind when selecting your Bodily Injury limits:\\nIf you select limits that are too low, you could be putting yourself at risk financially. \\n\\nFor example, if either you or a driver covered by your policy cause a serious injury where damages exceed your limits, you will be held responsible for the amount above your limits. To make that payment, you could be forced to liquidate property, savings, and other assets, or your future earnings could be attached. By purchasing liability limits to account for both your current assets and future net worth, you can help protect yourself against this risk.\\n\\nPROPERTY DAMAGE LIABILITY \\nCovers you if your car damages someone else's property. Usually it is their car, but it could be a fence, a house or any other property damaged in an accident. It also provides you with legal defense if another party files a lawsuit against you. It is a good idea to purchase enough of this insurance to cover the amount of damage your car might do to another vehicle or object. Coverage is limited to the terms and conditions contained in the policy.\\nHow much protection does this coverage provide?\\n\\nThe coverage limits refer to the maximum amounts that will be paid per accident.\\n\\nEssential things to keep in mind when selecting your Property Damage limits:\\nIf you select limits that are too low, you could be putting yourself at risk financially. For example, if either you or a driver covered by your policy cause a serious accident where damages exceed your limits, you will be held responsible for the amount above your limits. To make that payment, you could be forced to liquidate property, savings, and other assets, or your future earnings could be attached. By purchasing liability limits to account for both your current assets and future net worth, you can help protect yourself against this risk.\\n\\nPHYSICAL DAMAGE COVERAGE (COMP AND COLL)\\nCOMPREHENSIVE COVERAGE (OTHER THAN COLLISION, OTC, COMP):\\nCovers your vehicle, and other vehicles (in limited scenarios) you may be driving for losses resulting from incidents other than collision. For example, comprehensive insurance covers damage to your car if it is stolen; or damaged by flood, fire, or animals. It pays to fix your vehicle less the deductible you choose. To keep your premiums low, select as high a deductible as you feel comfortable paying out of pocket. Coverage is limited to the terms and conditions contained in the policy. This is not required by a state, but if you have a loan or a lease then the lien holder will require it.\\nHow much protection does this coverage provide?\\n\\nThe amount you see typically refers to the deductible, or the portion of a claim you are responsible for paying.\\n\\nA higher deductible can substantially lower the cost of insurance premiums. You should balance this savings against your ability to absorb a larger out-of-pocket expense. \\n\\nFor example, if you set your deductible at $1,000 and your car sustains damages totaling $1,500, you will pay $1,000 and your insurance company will pay $500.\\n\\nWho might benefit from buying Comprehensive coverage?\\n- If your car is financed or leased, the finance company will probably require that you carry this coverage.\\n- If you have a newer vehicle or one in excellent condition, you may need this coverage to replace or repair the vehicle in case of loss.\\n- If you have an older car or one in poor condition, you may not want to pay for this coverage.\\n\\nCOLLISION COVERAGE \\nCovers damage to your car when your car hits, or is hit by, another vehicle, or other object. Pays to fix your vehicle less the deductible you choose. To keep your premiums low, select as large a deductible as you feel comfortable paying out of pocket. For older cars, consider dropping this coverage, since coverage is normally limited to the cash value of your car. Coverage is limited to the terms and conditions contained in the policy. This is not required by a state, but if you have a loan or a lease then the lien holder will require it.\\nHow much protection does this coverage provide?\\n\\nThe amount you see typically refers to the deductible, or the portion of a claim that you're responsible for paying.\\n\\nA higher deductible can substantially lower the cost of insurance premiums. You should balance this savings against your ability to absorb a larger out-of-pocket expense.\\n\\nFor example, if you set your deductible at $1,000 and your car sustains damages totaling $1,500, you will pay $1,000 and your insurance company will pay $500.\\n\\nWho might benefit from buying Collision coverage?\\n- If your car is financed or leased, the finance company will probably require that you carry this coverage.\\n- If you have a newer vehicle or one in excellent condition, you may need this coverage to replace or repair the vehicle in case of loss.\\n- If you have an older car or one in poor condition, you may not want to pay for this coverage.\\n\\nUNINSURED AND UNDERINSURED MOTORIST COVERAGE (UM)\\nUNINSURED MOTORIST BODILY INJURY (UM):\\n\\nCovers you, the insured members of your household and your passengers for bodily/personal injuries, damages, or death caused by an at-fault uninsured or hit-and-run driver. If you are involved in an accident where the other driver is at fault but has no insurance, your policy will cover your medical expenses, up to the limit on your policy.\\n\\nWho is covered?\\n\\n- Policyholder\\n- Other drivers covered by the policy\\n- Passengers\\n\\nHow much protection does this coverage provide?\\nIf the other driver involved in an accident is uninsured, this coverage pays up to the limit you purchase. The coverage limits refer to the maximum amount that will be paid per person, per incident, respectively.\\nWho might benefit from buying uninsured motorist bodily injury coverage?\\nIndividuals without health insurance may benefit from this coverage, because if the limits chosen are inadequate, you will be responsible for paying the additional amount.\\n\\nUNDERINSURED MOTORIST BODILY INJURY (UNDUM):\\nCovers you, the insured members of your household and your passengers for injuries, damages or death caused by the negligence of a person with insufficient insurance. If you have an accident with a person whose coverage cannot meet your damages, your policy will meet the difference-up to the limit of liability listed on your policy.\\n\\nWho is covered?\\n- Policyholder\\n- Other drivers covered by the policy\\n- Passengers\\n\\nHow much protection does this coverage provide?\\nIf the other driver involved in an accident is underinsured, this coverage typically pays any difference between what the other driver's insurance covers and what your bodily injury coverage will pay. The coverage limits refer to the maximum amount that will be paid per person, per incident, respectively. If the limits you purchase are lower than an accident's costs, you'll be responsible for paying the amounts over your limits, unless you're covered by health insurance.\\n\\nWho might benefit from buying uninsured motorist bodily injury coverage?\\nIndividuals without health insurance may benefit from this coverage, because if the limits chosen are inadequate, you will be responsible for paying the additional amount.\\n\\nBoth UM and UNDUM coverage can be combined or sold separately depending on the state and the insurance carrier.\\n\\nUNINSURED PROPERTY DAMAGE (UMPD):\\nCovers your auto when property damage is sustained by an insured and the negligent operator does not possess insurance.\\n\\nHow much protection does this coverage provide?\\nIf you don't have Collision coverage, Uninsured Motorist Property Damage coverage pays up to a certain amount for repairs to the insured car (some states have limits at $3500, some are lower and some are higher). If you have Collision coverage, Uninsured Motorist Property Damage coverage only pays your Collision deductible (in some states).\\n\\nDoes this coverage replace Collision coverage?\\nNo. Uninsured Motorist Property Damage alone is not enough to cover all potential car repair/replacement costs, and only applies if you are involved in an accident caused by a driver without insurance coverage.\\n\\nUNDERINSURED MOTORIST PROPERTY DAMAGE (UNDPD):\\nCovers when property damage is sustained by an insured and the negligent operator possesses insurance, but the limits of liability carried by the negligent driver are not sufficient to cover the damages.\\n\\nHow much protection does this coverage provide?\\nIf you don't have Collision coverage, Underinsured Motorist Property Damage coverage pays up to a certain amount for repairs to the insured car (some states have limits at $3500, some are lower and some are higher) If you have Collision coverage, Underinsured Motorist Property Damage coverage only pays your Collision deductible (in some states).\\n\\nDoes this coverage replace Collision coverage?\\nNo. Underinsured Motorist Property Damage alone is not enough to cover all potential car repair/replacement costs, and only applies if you are involved in an accident caused by a driver without enough liability insurance coverage.\\nBoth UMPD and UNDPD coverage can be combined or sold separately depending on the state and insurance carrier.\\n\\nOTHER COVERAGE TYPES\\n\\nPERSONAL INJURY PROTECTION COVERAGE (PIP or MEDEX):\\nCovers within the specified limits, the medical, hospital and funeral expenses of the insured, others in his vehicles and pedestrians struck by him. The basic coverage for the insured's own injuries on a first-party basis, without regard to fault. It is only available in certain states. Depending on the state, the covered parties below and the amount of protection may vary.\\n\\nWho is covered?\\n- Policyholder\\n- Policyholder's relatives in the same household\\n- Passengers\\n- Other authorized drivers\\n- Policyholder and family members if they are injured while riding in someone else's car or as a pedestrian when struck by another vehicle. (in some states)\\n\\nHow much protection does this coverage provide?\\nTotal payments covered by PIP are the limits indicated. That is the maximum amount that will be paid per person for any combination of covered expenses (some states offer limits and others set it to an amount like $10,000). Specific limits and coverages vary by state.\\n\\nWho might benefit from buying additional medical coverage along with PIP?\\nPeople who don't have health insurance that adequately covers the expenses listed above or people who carpool or frequently drive with passengers.\\n\\nRelated Coverage:\\nAdditional Personal Injury Protection is available in some states where PIP is available; some carriers may offer Additional PIP. Additional Personal Injury Protection acts as a supplement to the PIP coverage required by your state.\\nGuest Personal Injury Protection provides coverage to guest passengers in your vehicles. It is required when all drivers on your policy have rejected no-fault coverage (state of Kentucky).\\n\\nIn states like New Jersey, you have to choose a Personal Injury Protection Plan. Here is a description of those choices:\\n Full PIP Primary- acts as the primary coverage for injuries sustained by you or your passengers in an auto accident. This option also covers income continuation, funeral expenses, death benefits, and essential services expenses, as detailed below. \\n- Full PIP Health Primary- should be purchased if another health insurance provider acts as the primary coverage for injuries sustained by you or your passengers in an auto accident. This option also covers income continuation, funeral expenses, death benefits, and essential services expenses, as detailed below. Please note: Full PIP Health Primary is not available if you use Medicare or Medicaid as your primary health insurance or if you are an active member of the military. In addition, some health insurers do not cover injuries related to car accidents. If you are unsure of what your health insurance covers, you should select Full PIP Primary or Medical Only PIP Primary. \\n\\n- Medical Only PIP Primary- acts as the primary coverage for injuries sustained by you or your passengers in an auto accident. \\n- Medical Only Health Primary- should be purchased if another health insurance provider acts as the primary coverage for injuries sustained by you or your passengers in an auto accident. Please note: Medical Only Health Primary is not available if you use Medicare or Medicaid as your primary health insurance or if you are an active member of the military. In addition, some health insurers do not cover injuries related to car accidents. If you are unsure of what your health insurance covers, you should select Full PIP Primary or Medical Only PIP Primary.\\n\\nBASIC AND ADDITIONAL REPARATION BENEFITS (BRP or PIP):\\nBasic Reparations Benefits will cover medical up to the selected amount. In some states, Additional Reparations Benefits is available to extend additional benefits. Additional Reparations Benefits is usually primary over any Health Insurance. This coverage is optional and you cannot have Medical Payments with this coverage.\\n\\nFIRST PARTY BENEFITS - MEDICAL (FPB OR MEDEX):\\nFirst Party Benefits cover several areas of insurance coverage; however, this definition is for First Party Benefits-Medical. Similar to medical payments coverage and Personal Injury Protection, FPB helps pay for your medical expenses if you or relatives living in your household are injured in an accident. Specific limits and coverages vary by state, but typically these services include:\\n- Related medical and surgical treatment\\n- Essential rehabilitative services (physical therapy, speech pathology, etc.)\\n- Necessary dental, psychiatric, psychological, and optometric treatment\\n- Ambulance and nursing service\\n- Required medications, medical supplies, and prosthetic devices\\n\\nWho is covered?\\nFirst Party Benefits-Medical provides coverage to the policyholder, drivers listed on the policy and relatives living in the same household as the policyholder.\\n\\nHow much protection does this coverage provide?\\n\\nTotal payments covered by FPD are the limits indicated. That is the maximum amount that will be paid per person for any combination of covered expenses.\\nIn addition to First Party Benefits - Medical, these coverages are available and sometimes combined as a package: First Party Benefits - Accidental Death, First Party Benefits - Combination Package, First Party Benefits - Extraordinary Medical, First Party Benefits - Funeral, and First Party Benefits - Income Loss.\\n\\nMEDICAL PAYMENTS (MEDPM):\\nCovers medical expenses to you and your passengers injured in an accident. There may also be coverage if as a pedestrian a vehicle injures you. This coverage applies, regardless as to who is at fault. Medical Payments may also cover policyholders and their family members when they are injured while riding in someone else's car or when a car hits them while on foot or bicycling. Coverage is limited to the terms and conditions contained in the policy.\\n\\nWho might benefit from buying Medical Payments coverage?\\nIf you and your regular passengers already have health insurance that covers similar expenses, medical payments coverage may be unnecessary. Check your health insurance policy for details.\\n\\nWORK LOSS:\\nAlso referred to as Optional Basic Economical Loss \\nThis coverage helps you, drivers listed on your policy, and your passengers recover lost wages if you are unable to work due to accident-related injuries. \\n\\nLOAN/LEASE GAP INSURANCE (LLG):\\nAlso referred to as GAP, Loan/Lease Payoff\\nLoan/Lease Gap Coverage is optional. To buy this coverage, you must have Collision coverage and Comprehensive coverage. You must have a deductible and your car must have a lien holder because it is financed or leased.\\n\\nThis coverage protects you if your car gets damaged and will reimburse you for the difference between the following items: \\n- The actual cash value of your car at the time of the loss, less the applicable deductible and the vehicle's salvage value (if retained by the owner or insured) and;\\n- Any greater amount owed on the vehicle at the time of loss, less any unpaid finance charges, excess mileage or wear and tear charges, any other charges or expenses associated with the loan or lease, and the vehicle's salvage value (if retained by the owner or insured).\\nPlease follow this link to learn more about GAP Insurance. GAP insurance is usually available as a separate policy from the auto policy. It is much less expensive to purchase LLG coverage with your policy.\\n\\nRENTAL CAR REIMBURSEMENT (RREIM):\\nCovers renting a car if your car is not drivable or while your car is being repaired because of a covered accident.\\n\\nTOWING AND LABOR (TL):\\nAlso, referred to as Tow Club, Emergency Road Service, Emergency Roadside Service\\nCoverage is only available if you purchase Comprehensive and/or Collision Coverage. Some policies limit coverage to pay only when a claim has been issued against your physical damage coverage (an accident). Coverage limits are different for each carrier, but typically, this is what is covered. \\n\\nACCIDENTAL MEDICAL PROTECTION PLAN (AMPP):\\nAlso referred to as Accidental Death and Dismemberment\\nCovers you (or family under a Family Plan) while driving or riding in any private passenger vehicle. Defined accident medical expenses are paid directly to you without a deductible.\\nWhat is covered? \\n- Towing \\n- Tire changing \\n- Gas, oil, and water delivery \\n- Battery services \\n- Lockout services'\\n\\nHow much protection does this coverage provide? \\nThe coverage limits you see in your quote refer to the maximum amount that will be paid per incident, per term, respectively. \\n\\nPROPERTY PROTECTION INSURANCE (PPI):\\nThis is required coverage in Michigan. It provides protection if you cause damage to properly parked vehicles or fixed properties such as buildings or lampposts in the state of Michigan.\\n\\nACCIDENTAL DEATH BENEFIT (ADB or ADD):\\nAlso, referred to as Accidental Death, Accidental Death Indemnity\\nA death benefit pays if bodily injury causes the death of you or a covered family member.\\nCUSTOM PARTS AND EQUIPMENT (CPE):\\nAlso, referred to as Additional Customized Parts Or Equipment, Customized Parts and Equipment, Electronic Equipment\\nCovers if your vehicle has permanently installed custom parts or equipment other than those installed by the original manufacturer.\\n\\nExamples of customized equipment include: \\n- Any dealer-installed equipment that is not offered by the original manufacturer \\n- Special equipment on vehicles, vans, and trucks, including: running boards, brush bars, roll bars, undercarriage lighting, fog lights, bed liners, camper shells, trailer hitches, etc. \\n- Customized wheels, spoilers, suspensions or performance-related equipment \\n- Stereo, sound recording and television equipment \\n- Customized paint or decals\",\"primaryKey\":[\"InsurancePolicyId\"],\"projectionInfo\":{\"attributes\":[{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"InsurancePolicyId\"},\"dataType\":\"integer\",\"description\":\"The unique identifier of an Insurance Policy.\",\"isNullable\":false,\"name\":\"InsurancePolicyId\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AgreementDefinition\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"The legal definition of \\\"agreement\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...in return for payment of the premium and subject to all terms of this policy, we agree with...\\\"\",\"isNullable\":true,\"name\":\"AgreementDefinition\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"BodilyInjuryDefinition\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"The legal definition of \\\"bodily injury\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...means bodily harm, sickness or disease, including death that results...\\\"\",\"isNullable\":true,\"name\":\"BodilyInjuryDefinition\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"BusinessDefinition\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"The legal definition of \\\"business\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"..means trade, profession or occupation...\\\"\",\"isNullable\":true,\"name\":\"BusinessDefinition\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"FamilyMemberDefinition\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"The legal definition of \\\"family member\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...means a person related to you by blood, marriage or adoption who is a resident of your household...\\\"\",\"isNullable\":true,\"name\":\"FamilyMemberDefinition\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"OccupyingDefinition\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"The legal definition of \\\"occupying\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"..means in, upon, getting in, on, out or off...\\\"\",\"isNullable\":true,\"name\":\"OccupyingDefinition\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"PropertyDamageDefinition\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"The legal definition of \\\"property damage\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...means physical injury to, destruction of, or loss of use of tangible property...\\\"\",\"isNullable\":true,\"name\":\"PropertyDamageDefinition\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"TrailerDefinition\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"The legal definition of \\\"trailer\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...means a vehicle designed to be pulled by a private passenger auto, pickup truck or van...\\\"\",\"isNullable\":true,\"name\":\"TrailerDefinition\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"CoveredAutoDefinition\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"The legal definition of \\\"covered auto\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...any vehicle shown in the declarations...\\\"\",\"isNullable\":true,\"name\":\"CoveredAutoDefinition\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"InsuredDefinition\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"The legal definition of \\\"insured\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...you or any family member for the ownership, maintenance or use of any auto or trailer...\\\"\",\"isNullable\":true,\"name\":\"InsuredDefinition\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AgreementClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding the obligations of the insurance provider and the insured.\\n\\nEx:\\n\\\"...the company agrees to provide the insurance described in this policy.   In return, the insured agrees to pay the premium and comply with the policy terms...\\\"\",\"isNullable\":true,\"name\":\"AgreementClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"CoverageClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"coverage we will pay\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...the insurer will pay when an insured becomes legally obligated to pay for personal injury or property damage caused by an occurrence...\\\"\",\"isNullable\":true,\"name\":\"CoverageClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"ChangesToPolicyProvisionsClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement detailing what occurs in case of changes to information provided to the insurance company that are used to compile premiums, quotes etc.\\n\\nEx\\\"\\n\\\"...premium adjustments may be made as a result of a change in ...autos, drivers, coverages, rating territory, eligibility for discounts...\\\"\",\"isNullable\":true,\"name\":\"ChangesToPolicyProvisionsClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"LimitOfLiabilityClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"limits of liability\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...insurer will not pay any amount exceeding the limits shown in the declarations...if no other insurance is required and no other insurance applies to the occurrence, the insured will pay only those amounts which exceed the ...\\\"\",\"isNullable\":true,\"name\":\"LimitOfLiabilityClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"ConcealmentOfFraudClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"concealment of fraud\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...insurer does not provide coverage for an insured who has intentionally concealed or misrepresented any material fact or circumstance...\\\"\",\"isNullable\":true,\"name\":\"ConcealmentOfFraudClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"ArbitrationClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement addressing the use of arbitration when no agreement can be come to by the insured and insurer.\",\"isNullable\":true,\"name\":\"ArbitrationClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AmountInsurerWillPayClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"amounts insurer will pay\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...insurer will pay only those amounts without our limit of liability which exceed the sum of...\\\"\",\"isNullable\":true,\"name\":\"AmountInsurerWillPayClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"RightToRecoverPaymentProvisionClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement detailing what occurs in case the insurance company makes a payment under the policy and the person to or for whom payment has a right to recover damages from another we shall be subrogated to that right.\",\"isNullable\":true,\"name\":\"RightToRecoverPaymentProvisionClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"OutOfStateCoverageClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement detailing out of state coverage.\",\"isNullable\":true,\"name\":\"OutOfStateCoverageClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"InsurableInterestAndLimitOfLiabilityClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"insurable interest and limits of liability\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...total liability under coverage for all damages will not be more than the limit of liability as shown in the declarations...\\\"\",\"isNullable\":true,\"name\":\"InsurableInterestAndLimitOfLiabilityClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"DutiesAfterLossClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"duties after loss\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...In case of an accident or occurrence, the insured will perform the following duties that apply...\\\"\",\"isNullable\":true,\"name\":\"DutiesAfterLossClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"TerminationProvisionClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement addressing what happens in the event of a policy termination.\",\"isNullable\":true,\"name\":\"TerminationProvisionClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"NoticeClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"notice clause\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"..the insured must give the insurer prompt written notice of any occurrence...\\\"\",\"isNullable\":true,\"name\":\"NoticeClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"RightOfAppealClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"right of appeal\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"..if an insured or any other insurer elects not to appeal a judgment the insurer may do so...\\\"\",\"isNullable\":true,\"name\":\"RightOfAppealClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"NoBenefitToBaileeClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"No benefit to bailee\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...we will not recognize any assignment or grant any coverage that benefits a person or organization holding, storing or moving property for free regardless of any other provision in this policy...\\\"\",\"isNullable\":true,\"name\":\"NoBenefitToBaileeClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AssistanceAndCooperationClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"assistance and cooperation\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"..except as agreed, the insured are not required to settle or defend any claim or suit against an insured..\\\"\",\"isNullable\":true,\"name\":\"AssistanceAndCooperationClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"SuitAgainstInsurerClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"An insurance policy statement detailing what occurs in case of legal actions brought against the insurance company.\\n\\nEx:\\n\\\"...No legal action may be brought against the insurance company until there has been full compliance with all the terms of this policy...\\\"\",\"isNullable\":true,\"name\":\"SuitAgainstInsurerClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"PolicyPeriodClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"policy period\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...this policy applies only to loss, bodily injury or property damage which occurs during the policy period...\\\"\",\"isNullable\":true,\"name\":\"PolicyPeriodClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"ClaimsForLossClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"claims for loss\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"..the insured will not begin to make payment for any occurrence covered by this policy until our liability has been determined by...\\\"\",\"isNullable\":true,\"name\":\"ClaimsForLossClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"PaymentOfClaimClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"payment of claim\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...payment under this coverage is not an admission of liability by an insured or us...\\\"\",\"isNullable\":true,\"name\":\"PaymentOfClaimClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"ExclusionsClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement detailing exclusions to the insurance policy.\\n\\nEx:\\n\\\"...we do not provide coverage for any of the following...\\\"\",\"isNullable\":true,\"name\":\"ExclusionsClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"OtherTerminationProvisionsClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement addressing what happens in the event of a policy termination for reasons other than termination, cancellation or nonrenewal.\",\"isNullable\":true,\"name\":\"OtherTerminationProvisionsClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"TransportationExpensesClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement addressing the payment of transportation-related expenses in various scenarios.\",\"isNullable\":true,\"name\":\"TransportationExpensesClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"TransferOfYourInterestInThisPolicyProvisionsClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement addressing what happens regarding the assignment or rights and duties under the policy.\",\"isNullable\":true,\"name\":\"TransferOfYourInterestInThisPolicyProvisionsClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"TowingAndLaborCostsProvisionsClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement addressing what happens regarding towing and labor costs under the insurance policy.\",\"isNullable\":true,\"name\":\"TowingAndLaborCostsProvisionsClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AppraisalClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement detailing what occurs in case of legal actions brought against the insurance company.\\n\\nEx:\\n\\\"...either party may demand an appraisal of loss, in this even...\\\"\",\"isNullable\":true,\"name\":\"AppraisalClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"ExtendedTransportationExpensesProvisionsClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement addressing what happens regarding extended transportation costs under the insurance policy.\",\"isNullable\":true,\"name\":\"ExtendedTransportationExpensesProvisionsClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"FinancialResponsibilityRequiredClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement detailing  \\\"when this policy is certified as future proof of financial responsibility, this policy will comply with the law to the extent required\\\".\",\"isNullable\":true,\"name\":\"FinancialResponsibilityRequiredClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"OtherInsuranceClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement detailing  coverage in case other coverages exist.\",\"isNullable\":true,\"name\":\"OtherInsuranceClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"RightToRecoverPaymentClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement detailing what occurs in case of legal actions brought against the insurance company.\\n\\nEx:\\n\\\"...if insurer makes a payment under this policy and the person to or for whom payment was made has a right to recover damages from another we shall be subrogated to that right...\\\"\",\"isNullable\":true,\"name\":\"RightToRecoverPaymentClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AudioVisualAndDataElectronicEquipmentCoverageProvisionsClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement addressing what happens regarding audio, visual equipment and electronic equipment under the insurance policy.\",\"isNullable\":true,\"name\":\"AudioVisualAndDataElectronicEquipmentCoverageProvisionsClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"InsuringAgreementProvisionsClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement addressing what will be paid for under the insurance policy.\",\"isNullable\":true,\"name\":\"InsuringAgreementProvisionsClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"InsuranceExclusionsProvisionsClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement addressing what will not be paid for under the insurance policy.\",\"isNullable\":true,\"name\":\"InsuranceExclusionsProvisionsClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"TransferOfInterestClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A vehicle insurance policy statement detailing what occurs in case of legal actions brought against the insurance company.\\n\\nEx:\\n\\\"...your rights, duties under this policy may be not assigned without written consent...\\\"\",\"isNullable\":true,\"name\":\"TransferOfInterestClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"CancellationClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"cancellation\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...you may cancel this policy at any time by writing to us or by letting us known in writing of the date cancellation is to take effect...\\\"\",\"isNullable\":true,\"name\":\"CancellationClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"NonRenewalClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"non-renewal\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...insurer may elect not to renew this policy and may do so by delivering to you...\\\"\",\"isNullable\":true,\"name\":\"NonRenewalClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"BankruptcyOfAnInsuredClause\"},\"dataType\":\"string\",\"dataTypeLength\":2048,\"description\":\"A contractual statement regarding \\\"bankruptcy of an insured\\\" as related to the insurance policy.\\n\\nEx:\\n\\\"...bankruptcy or insolvency of an insured will not relieve insurer of obligations under this policy...\\\"\",\"isNullable\":true,\"name\":\"BankruptcyOfAnInsuredClause\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"StackableUnderinsuredMotoristCoverageAppliesIndicator\"},\"dataType\":\"boolean\",\"description\":\"Stacked Uninsured Motorist (UM) and Stacked Underinsured Motorist (UIM)\\n  \\n\\\"Stacking\\\" uninsured motorist coverage allows you to combine limits of uninsured motorist coverage for all vehicles on the policy. This option is only available on all policies with more than one vehicle. The same \\\"stacking\\\" of coverage may be available on underinsured motorist coverage. \\nExample:\\n1. Limits represent thousands of dollars and are expressed in the following format: \\n\\\"100/300\\\" \\nThat is: A maximum of $100,000 for bodily injury to one person and $300,000 in aggregate for bodily injury sustained by two or more persons in a single accident. \\n2. If you have selected 100/300 limits and you are insuring three vehicles on one policy, your stacked limits would total 300/900. \\nThat is: A maximum of $300,000 for bodily injury to one person and $900,000 in aggregate for bodily injury sustained by two or more persons in a single accident.\",\"isNullable\":true,\"name\":\"StackableUnderinsuredMotoristCoverageAppliesIndicator\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AssignedRiskInsurancePlanIndicator\"},\"dataType\":\"boolean\",\"description\":\"The name for \\\"assigned risk\\\" plans. These are plans set up and monitored by the state to help people who are unable to secure auto insurance through standard insurance carriers. See Assigned Risk.\",\"isNullable\":true,\"name\":\"AssignedRiskInsurancePlanIndicator\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"StackableUninsuredMotoristCoverageAppliesIndicator\"},\"dataType\":\"boolean\",\"description\":\"Stacked Uninsured Motorist (UM) and Stacked Underinsured Motorist (UIM)\\n  \\n\\\"Stacking\\\" uninsured motorist coverage allows you to combine limits of uninsured motorist coverage for all vehicles on the policy. This option is only available on all policies with more than one vehicle. The same \\\"stacking\\\" of coverage may be available on underinsured motorist coverage. \\nExample:\\n1. Limits represent thousands of dollars and are expressed in the following format: \\n\\\"100/300\\\" \\nThat is: A maximum of $100,000 for bodily injury to one person and $300,000 in aggregate for bodily injury sustained by two or more persons in a single accident. \\n2. If you have selected 100/300 limits and you are insuring three vehicles on one policy, your stacked limits would total 300/900. \\nThat is: A maximum of $300,000 for bodily injury to one person and $900,000 in aggregate for bodily injury sustained by two or more persons in a single accident.\",\"isNullable\":true,\"name\":\"StackableUninsuredMotoristCoverageAppliesIndicator\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"NoFaultInsuranceIndicator\"},\"dataType\":\"boolean\",\"description\":\"Auto insurance coverage that pays for each driver's own injuries, regardless of who caused the accident. No-fault varies from state to state. It also refers to an auto liability insurance system that restricts lawsuits to serious cases. Such policies are designed to promote faster reimbursement and to reduce litigation.\",\"isNullable\":true,\"name\":\"NoFaultInsuranceIndicator\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"AssignedRiskAutoInsurancePlanIndicator\"},\"dataType\":\"boolean\",\"description\":\"These are plans set up and monitored by the state to help people who are unable to secure auto insurance through standard insurance carriers. See Assigned Risk.\",\"isNullable\":true,\"name\":\"AssignedRiskAutoInsurancePlanIndicator\"},{\"type\":\"Existing\",\"attributeReference\":{\"entity\":\"AutoInsurancePolicy.cdm.json/AutoInsurancePolicy\",\"name\":\"PreferredVehicleInsuranceProductIndicator\"},\"dataType\":\"boolean\",\"description\":\"Preferred vehicle (\\\"auto\\\") is a line of vehicle insurance coverage offered to drivers with clean driving records.\",\"isNullable\":true,\"name\":\"PreferredVehicleInsuranceProductIndicator\"}]}}}",
+			"Description": "Insurance designed to protect against losses involving automobiles. All types of policies, including basic liability, collision and comprehensive, etc. come together to constitute automobile insurance.\n\nPersonal Auto Policy: The most common auto insurance policy sold today. Often referred to as \"PAP,\" this policy is written in simple wording and provides coverage for liability, medical payments, uninsured/underinsured motorist coverage, and physical damage protection.\n\nAUTO INSURANCE POLICY\nThere are basically six different types of coverages. Some may be required by law. Others are optional. They are:\n\n1. Bodily injury liability, for injuries the policyholder causes to someone else.\n\n2. Medical payments or Personal Injury Protection (PIP) for treatment of injuries to the driver and passengers of the policyholder's car.\n\n3. Property damage liability, for damage the policyholder causes to someone else's property.\n\n4. Collision, for damage to the policyholder's car from a collision.\n\n5. Comprehensive, for damage to the policyholder's car not involving a collision with another car (including damage from fire, explosions, earthquakes, floods, and riots), and theft.\n\n6. Uninsured motorists coverage, for costs resulting from an accident involving a hit-and-run driver or a driver who does not have insurance.\n\nA specific type(s) of insurance coverage associated with an insurance policy.\n\nEx:\nLIABILITY\n- Bodily injury\n- First Aid Expenses\n- Damage To Other Vehicles\n- Court Costs\n- Other Property Damage\nMEDICAL EXPENSES\n- Hospital Expenses\n- Ambulance Fees\n- Physician Services\n- Funeral Expenses\nCOMPREHENSIVE\n- Theft\n- Fire\n- Vandalism\n- Collision with Animals\n- Falling Objects\n- Glass Breakage\n- Flood\n- Hail\n- Windstorm\nCOLLISION\n- Other Vehicles\n- Stationary Objects\n- Upset\n- While Parked\nUNINSURED MOTORIST\n- Riding in your vehicle\n- Property Damage\nOTHER \n- Newly Acquired Vehicle\n- Emergency Road Service\n- Auto Rental Reimbursement\n- Accidental Death and Dismemberment\n- Combined Single Limit\n- Drive-Other-Car (Endorsement)\n- Extended Non-Lower Liability\n\nwhere:\n\nAuto insurance coverage is packaged into different coverage types. It is usually easiest to determine what you are required to purchase. Then, you determine what you have that needs to be protected. You purchase insurance to protect yourself (your family) in the event that you suffer a loss to your person or property and you purchase insurance to protect yourself (your family) from losses suffered by others. Below is a breakdown of each car insurance coverage type to help you understand more about what each type of coverage protects. Next to each type is a term that is usually associated with that coverage type.\n\nLIABILITY COVERAGE (LIABILITY)\nBODILY INJURY LIABILITY \nCovers other people's bodily injuries or death for which you are responsible. It also provides for a legal defense if another party in the accident files a lawsuit against you. Claims for bodily injury may be for such things as medical bills, loss of income or pain and suffering. In the event of a serious accident, you want enough insurance to cover a judgment against you in a lawsuit, without jeopardizing your personal assets. Bodily injury liability covers injury to people, not your vehicle. Therefore, it is a good idea (and usually a company requirement) to have the same level of coverage for all of your cars. Bodily Injury Liability does NOT cover you or other people on your policy. Coverage is limited to the terms and conditions contained in the policy. It is mandatory in most states.\n\nHow much protection does this coverage provide?\nThe dual coverage limits refer to the maximum amounts that will be paid per person, per incident, respectively.\n\nEssential things to keep in mind when selecting your Bodily Injury limits:\nIf you select limits that are too low, you could be putting yourself at risk financially. \n\nFor example, if either you or a driver covered by your policy cause a serious injury where damages exceed your limits, you will be held responsible for the amount above your limits. To make that payment, you could be forced to liquidate property, savings, and other assets, or your future earnings could be attached. By purchasing liability limits to account for both your current assets and future net worth, you can help protect yourself against this risk.\n\nPROPERTY DAMAGE LIABILITY \nCovers you if your car damages someone else's property. Usually it is their car, but it could be a fence, a house or any other property damaged in an accident. It also provides you with legal defense if another party files a lawsuit against you. It is a good idea to purchase enough of this insurance to cover the amount of damage your car might do to another vehicle or object. Coverage is limited to the terms and conditions contained in the policy.\nHow much protection does this coverage provide?\n\nThe coverage limits refer to the maximum amounts that will be paid per accident.\n\nEssential things to keep in mind when selecting your Property Damage limits:\nIf you select limits that are too low, you could be putting yourself at risk financially. For example, if either you or a driver covered by your policy cause a serious accident where damages exceed your limits, you will be held responsible for the amount above your limits. To make that payment, you could be forced to liquidate property, savings, and other assets, or your future earnings could be attached. By purchasing liability limits to account for both your current assets and future net worth, you can help protect yourself against this risk.\n\nPHYSICAL DAMAGE COVERAGE (COMP AND COLL)\nCOMPREHENSIVE COVERAGE (OTHER THAN COLLISION, OTC, COMP):\nCovers your vehicle, and other vehicles (in limited scenarios) you may be driving for losses resulting from incidents other than collision. For example, comprehensive insurance covers damage to your car if it is stolen; or damaged by flood, fire, or animals. It pays to fix your vehicle less the deductible you choose. To keep your premiums low, select as high a deductible as you feel comfortable paying out of pocket. Coverage is limited to the terms and conditions contained in the policy. This is not required by a state, but if you have a loan or a lease then the lien holder will require it.\nHow much protection does this coverage provide?\n\nThe amount you see typically refers to the deductible, or the portion of a claim you are responsible for paying.\n\nA higher deductible can substantially lower the cost of insurance premiums. You should balance this savings against your ability to absorb a larger out-of-pocket expense. \n\nFor example, if you set your deductible at $1,000 and your car sustains damages totaling $1,500, you will pay $1,000 and your insurance company will pay $500.\n\nWho might benefit from buying Comprehensive coverage?\n- If your car is financed or leased, the finance company will probably require that you carry this coverage.\n- If you have a newer vehicle or one in excellent condition, you may need this coverage to replace or repair the vehicle in case of loss.\n- If you have an older car or one in poor condition, you may not want to pay for this coverage.\n\nCOLLISION COVERAGE \nCovers damage to your car when your car hits, or is hit by, another vehicle, or other object. Pays to fix your vehicle less the deductible you choose. To keep your premiums low, select as large a deductible as you feel comfortable paying out of pocket. For older cars, consider dropping this coverage, since coverage is normally limited to the cash value of your car. Coverage is limited to the terms and conditions contained in the policy. This is not required by a state, but if you have a loan or a lease then the lien holder will require it.\nHow much protection does this coverage provide?\n\nThe amount you see typically refers to the deductible, or the portion of a claim that you're responsible for paying.\n\nA higher deductible can substantially lower the cost of insurance premiums. You should balance this savings against your ability to absorb a larger out-of-pocket expense.\n\nFor example, if you set your deductible at $1,000 and your car sustains damages totaling $1,500, you will pay $1,000 and your insurance company will pay $500.\n\nWho might benefit from buying Collision coverage?\n- If your car is financed or leased, the finance company will probably require that you carry this coverage.\n- If you have a newer vehicle or one in excellent condition, you may need this coverage to replace or repair the vehicle in case of loss.\n- If you have an older car or one in poor condition, you may not want to pay for this coverage.\n\nUNINSURED AND UNDERINSURED MOTORIST COVERAGE (UM)\nUNINSURED MOTORIST BODILY INJURY (UM):\n\nCovers you, the insured members of your household and your passengers for bodily/personal injuries, damages, or death caused by an at-fault uninsured or hit-and-run driver. If you are involved in an accident where the other driver is at fault but has no insurance, your policy will cover your medical expenses, up to the limit on your policy.\n\nWho is covered?\n\n- Policyholder\n- Other drivers covered by the policy\n- Passengers\n\nHow much protection does this coverage provide?\nIf the other driver involved in an accident is uninsured, this coverage pays up to the limit you purchase. The coverage limits refer to the maximum amount that will be paid per person, per incident, respectively.\nWho might benefit from buying uninsured motorist bodily injury coverage?\nIndividuals without health insurance may benefit from this coverage, because if the limits chosen are inadequate, you will be responsible for paying the additional amount.\n\nUNDERINSURED MOTORIST BODILY INJURY (UNDUM):\nCovers you, the insured members of your household and your passengers for injuries, damages or death caused by the negligence of a person with insufficient insurance. If you have an accident with a person whose coverage cannot meet your damages, your policy will meet the difference-up to the limit of liability listed on your policy.\n\nWho is covered?\n- Policyholder\n- Other drivers covered by the policy\n- Passengers\n\nHow much protection does this coverage provide?\nIf the other driver involved in an accident is underinsured, this coverage typically pays any difference between what the other driver's insurance covers and what your bodily injury coverage will pay. The coverage limits refer to the maximum amount that will be paid per person, per incident, respectively. If the limits you purchase are lower than an accident's costs, you'll be responsible for paying the amounts over your limits, unless you're covered by health insurance.\n\nWho might benefit from buying uninsured motorist bodily injury coverage?\nIndividuals without health insurance may benefit from this coverage, because if the limits chosen are inadequate, you will be responsible for paying the additional amount.\n\nBoth UM and UNDUM coverage can be combined or sold separately depending on the state and the insurance carrier.\n\nUNINSURED PROPERTY DAMAGE (UMPD):\nCovers your auto when property damage is sustained by an insured and the negligent operator does not possess insurance.\n\nHow much protection does this coverage provide?\nIf you don't have Collision coverage, Uninsured Motorist Property Damage coverage pays up to a certain amount for repairs to the insured car (some states have limits at $3500, some are lower and some are higher). If you have Collision coverage, Uninsured Motorist Property Damage coverage only pays your Collision deductible (in some states).\n\nDoes this coverage replace Collision coverage?\nNo. Uninsured Motorist Property Damage alone is not enough to cover all potential car repair/replacement costs, and only applies if you are involved in an accident caused by a driver without insurance coverage.\n\nUNDERINSURED MOTORIST PROPERTY DAMAGE (UNDPD):\nCovers when property damage is sustained by an insured and the negligent operator possesses insurance, but the limits of liability carried by the negligent driver are not sufficient to cover the damages.\n\nHow much protection does this coverage provide?\nIf you don't have Collision coverage, Underinsured Motorist Property Damage coverage pays up to a certain amount for repairs to the insured car (some states have limits at $3500, some are lower and some are higher) If you have Collision coverage, Underinsured Motorist Property Damage coverage only pays your Collision deductible (in some states).\n\nDoes this coverage replace Collision coverage?\nNo. Underinsured Motorist Property Damage alone is not enough to cover all potential car repair/replacement costs, and only applies if you are involved in an accident caused by a driver without enough liability insurance coverage.\nBoth UMPD and UNDPD coverage can be combined or sold separately depending on the state and insurance carrier.\n\nOTHER COVERAGE TYPES\n\nPERSONAL INJURY PROTECTION COVERAGE (PIP or MEDEX):\nCovers within the specified limits, the medical, hospital and funeral expenses of the insured, others in his vehicles and pedestrians struck by him. The basic coverage for the insured's own injuries on a first-party basis, without regard to fault. It is only available in certain states. Depending on the state, the covered parties below and the amount of protection may vary.\n\nWho is covered?\n- Policyholder\n- Policyholder's relatives in the same household\n- Passengers\n- Other authorized drivers\n- Policyholder and family members if they are injured while riding in someone else's car or as a pedestrian when struck by another vehicle. (in some states)\n\nHow much protection does this coverage provide?\nTotal payments covered by PIP are the limits indicated. That is the maximum amount that will be paid per person for any combination of covered expenses (some states offer limits and others set it to an amount like $10,000). Specific limits and coverages vary by state.\n\nWho might benefit from buying additional medical coverage along with PIP?\nPeople who don't have health insurance that adequately covers the expenses listed above or people who carpool or frequently drive with passengers.\n\nRelated Coverage:\nAdditional Personal Injury Protection is available in some states where PIP is available; some carriers may offer Additional PIP. Additional Personal Injury Protection acts as a supplement to the PIP coverage required by your state.\nGuest Personal Injury Protection provides coverage to guest passengers in your vehicles. It is required when all drivers on your policy have rejected no-fault coverage (state of Kentucky).\n\nIn states like New Jersey, you have to choose a Personal Injury Protection Plan. Here is a description of those choices:\n Full PIP Primary- acts as the primary coverage for injuries sustained by you or your passengers in an auto accident. This option also covers income continuation, funeral expenses, death benefits, and essential services expenses, as detailed below. \n- Full PIP Health Primary- should be purchased if another health insurance provider acts as the primary coverage for injuries sustained by you or your passengers in an auto accident. This option also covers income continuation, funeral expenses, death benefits, and essential services expenses, as detailed below. Please note: Full PIP Health Primary is not available if you use Medicare or Medicaid as your primary health insurance or if you are an active member of the military. In addition, some health insurers do not cover injuries related to car accidents. If you are unsure of what your health insurance covers, you should select Full PIP Primary or Medical Only PIP Primary. \n\n- Medical Only PIP Primary- acts as the primary coverage for injuries sustained by you or your passengers in an auto accident. \n- Medical Only Health Primary- should be purchased if another health insurance provider acts as the primary coverage for injuries sustained by you or your passengers in an auto accident. Please note: Medical Only Health Primary is not available if you use Medicare or Medicaid as your primary health insurance or if you are an active member of the military. In addition, some health insurers do not cover injuries related to car accidents. If you are unsure of what your health insurance covers, you should select Full PIP Primary or Medical Only PIP Primary.\n\nBASIC AND ADDITIONAL REPARATION BENEFITS (BRP or PIP):\nBasic Reparations Benefits will cover medical up to the selected amount. In some states, Additional Reparations Benefits is available to extend additional benefits. Additional Reparations Benefits is usually primary over any Health Insurance. This coverage is optional and you cannot have Medical Payments with this coverage.\n\nFIRST PARTY BENEFITS - MEDICAL (FPB OR MEDEX):\nFirst Party Benefits cover several areas of insurance coverage; however, this definition is for First Party Benefits-Medical. Similar to medical payments coverage and Personal Injury Protection, FPB helps pay for your medical expenses if you or relatives living in your household are injured in an accident. Specific limits and coverages vary by state, but typically these services include:\n- Related medical and surgical treatment\n- Essential rehabilitative services (physical therapy, speech pathology, etc.)\n- Necessary dental, psychiatric, psychological, and optometric treatment\n- Ambulance and nursing service\n- Required medications, medical supplies, and prosthetic devices\n\nWho is covered?\nFirst Party Benefits-Medical provides coverage to the policyholder, drivers listed on the policy and relatives living in the same household as the policyholder.\n\nHow much protection does this coverage provide?\n\nTotal payments covered by FPD are the limits indicated. That is the maximum amount that will be paid per person for any combination of covered expenses.\nIn addition to First Party Benefits - Medical, these coverages are available and sometimes combined as a package: First Party Benefits - Accidental Death, First Party Benefits - Combination Package, First Party Benefits - Extraordinary Medical, First Party Benefits - Funeral, and First Party Benefits - Income Loss.\n\nMEDICAL PAYMENTS (MEDPM):\nCovers medical expenses to you and your passengers injured in an accident. There may also be coverage if as a pedestrian a vehicle injures you. This coverage applies, regardless as to who is at fault. Medical Payments may also cover policyholders and their family members when they are injured while riding in someone else's car or when a car hits them while on foot or bicycling. Coverage is limited to the terms and conditions contained in the policy.\n\nWho might benefit from buying Medical Payments coverage?\nIf you and your regular passengers already have health insurance that covers similar expenses, medical payments coverage may be unnecessary. Check your health insurance policy for details.\n\nWORK LOSS:\nAlso referred to as Optional Basic Economical Loss \nThis coverage helps you, drivers listed on your policy, and your passengers recover lost wages if you are unable to work due to accident-related injuries. \n\nLOAN/LEASE GAP INSURANCE (LLG):\nAlso referred to as GAP, Loan/Lease Payoff\nLoan/Lease Gap Coverage is optional. To buy this coverage, you must have Collision coverage and Comprehensive coverage. You must have a deductible and your car must have a lien holder because it is financed or leased.\n\nThis coverage protects you if your car gets damaged and will reimburse you for the difference between the following items: \n- The actual cash value of your car at the time of the loss, less the applicable deductible and the vehicle's salvage value (if retained by the owner or insured) and;\n- Any greater amount owed on the vehicle at the time of loss, less any unpaid finance charges, excess mileage or wear and tear charges, any other charges or expenses associated with the loan or lease, and the vehicle's salvage value (if retained by the owner or insured).\nPlease follow this link to learn more about GAP Insurance. GAP insurance is usually available as a separate policy from the auto policy. It is much less expensive to purchase LLG coverage with your policy.\n\nRENTAL CAR REIMBURSEMENT (RREIM):\nCovers renting a car if your car is not drivable or while your car is being repaired because of a covered accident.\n\nTOWING AND LABOR (TL):\nAlso, referred to as Tow Club, Emergency Road Service, Emergency Roadside Service\nCoverage is only available if you purchase Comprehensive and/or Collision Coverage. Some policies limit coverage to pay only when a claim has been issued against your physical damage coverage (an accident). Coverage limits are different for each carrier, but typically, this is what is covered. \n\nACCIDENTAL MEDICAL PROTECTION PLAN (AMPP):\nAlso referred to as Accidental Death and Dismemberment\nCovers you (or family under a Family Plan) while driving or riding in any private passenger vehicle. Defined accident medical expenses are paid directly to you without a deductible.\nWhat is covered? \n- Towing \n- Tire changing \n- Gas, oil, and water delivery \n- Battery services \n- Lockout services'\n\nHow much protection does this coverage provide? \nThe coverage limits you see in your quote refer to the maximum amount that will be paid per incident, per term, respectively. \n\nPROPERTY PROTECTION INSURANCE (PPI):\nThis is required coverage in Michigan. It provides protection if you cause damage to properly parked vehicles or fixed properties such as buildings or lampposts in the state of Michigan.\n\nACCIDENTAL DEATH BENEFIT (ADB or ADD):\nAlso, referred to as Accidental Death, Accidental Death Indemnity\nA death benefit pays if bodily injury causes the death of you or a covered family member.\nCUSTOM PARTS AND EQUIPMENT (CPE):\nAlso, referred to as Additional Customized Parts Or Equipment, Customized Parts and Equipment, Electronic Equipment\nCovers if your vehicle has permanently installed custom parts or equipment other than those installed by the original manufacturer.\n\nExamples of customized equipment include: \n- Any dealer-installed equipment that is not offered by the original manufacturer \n- Special equipment on vehicles, vans, and trucks, including: running boards, brush bars, roll bars, undercarriage lighting, fog lights, bed liners, camper shells, trailer hitches, etc. \n- Customized wheels, spoilers, suspensions or performance-related equipment \n- Stereo, sound recording and television equipment \n- Customized paint or decals",
+			"DisplayFolderInfo": "{\"name\":\"Policy\",\"colorCode\":\"#F04EB2\"}",
+			"PrimaryKeys": "InsurancePolicyId",
+			"spark.sql.sources.provider": "csv",
+			"sql:IsAppendOnly": false
+		},
+		"Retention": 0,
+		"Temporary": false,
+		"IsRewriteEnabled": false
+	},
+	"type": "TABLE"
+}

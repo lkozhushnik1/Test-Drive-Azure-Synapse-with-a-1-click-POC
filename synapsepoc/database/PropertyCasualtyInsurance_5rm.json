@@ -1,0 +1,24 @@
+{
+	"name": "PropertyCasualtyInsurance_5rm",
+	"properties": {
+		"Name": "PropertyCasualtyInsurance_5rm",
+		"EntityType": "DATABASE",
+		"Description": "",
+		"Origin": {
+			"Type": "SPARK"
+		},
+		"Properties": {
+			"DerivedModelDBInfo": "{\"ModelDirectives\":{\"BaseModel\":{\"Name\":\"PropertyCasualtyInsurance\",\"Version\":\"0.1.0\"}}}",
+			"IsSyMSCDMDatabase": true
+		},
+		"Source": {
+			"Provider": "ADLS",
+			"Location": "abfss://dlspocpocfs1@pocncshrva5mnznepoc.dfs.core.windows.net/PropertyCasualtyInsurance_5rm",
+			"Properties": {
+				"FormatType": "csv",
+				"LinkedServiceName": "pocncshrva5mnznepocws1-WorkspaceDefaultStorage"
+			}
+		}
+	},
+	"type": "DATABASE"
+}
