@@ -1,0 +1,7 @@
+{
+	"name": "AzureBlobStorage211",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/724b8aba-63a3-477d-a7d1-d89990d1a78b/resourceGroups/databricks-rg-lkadbdemo001-xetqhm2q6ejtw/providers/Microsoft.Storage/storageAccounts/dbstoragebe3ufmjtvpyf2",
+		"groupId": "blob"
+	}
+}
